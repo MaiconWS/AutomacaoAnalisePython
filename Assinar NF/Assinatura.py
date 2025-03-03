@@ -4,16 +4,15 @@ import time
 
 
 data = datetime.now().strftime('%d/%m/%Y')
-qtd = int(input('Digite a quantidade de O.S: '))
+qtd = int(input('Digite a quantidade de NF: '))
 nome = 'Maicon Willian CS319800'
 
 gui.hotkey('alt', 'tab')
 
+#Deixar apenas a pasta com as Nfs abertas 
 
 for _ in range(qtd):
     
-    gui.press('down')
-    time.sleep(1)
     gui.press('enter')
     time.sleep(1.5)
     gui.click(x=866, y=87)
@@ -41,5 +40,8 @@ for _ in range(qtd):
     gui.click(x=1005, y=274)
     time.sleep(0.5)
     gui.click(x=1272, y=92)
-    time.sleep(0.5)
+    time.sleep(1)
     gui.hotkey('alt', 'tab')
+    time.sleep(1)
+    gui.press('down')
+    time.sleep(1)

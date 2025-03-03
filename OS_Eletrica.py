@@ -56,7 +56,7 @@ for _ in range(Quantidade):
     time.sleep(0.5)
     gui.click(x=424, y=446)
     time.sleep(0.5)
-    gui.write('Elétrica - ')
+    gui.write('Eletrica - ')
     time.sleep(0.5)
     gui.hotkey('alt','tab')
     

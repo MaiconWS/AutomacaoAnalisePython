@@ -1,122 +1,97 @@
-﻿O.S;Status;Classe;Frota;Unidade;Modelo;Entrada;Descrição da ordem;Coluna1;Coluna2;Coluna22;Priorização;Operação;Coluna3;Material/Laudo/Serviço;
-151868468;Aprovisionamento;Preventiva Condicional;93187;Barra;John Deere 7230 J 4x4;20/05/2024;"M_OT_P_MEC_0,10_1 - Inspeção realizada no sistema hidraulico - trocar tampa do bocal de abastecimento de oleo da transmissao AL165074 8106871_01
-";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
-151868470;Aprovisionamento;Preventiva Condicional;93187;Barra;John Deere 7230 J 4x4;20/05/2024;"M_OT_P_MEC_2,00_2 - Inspeção realizada na estrutura - trocar coxim traseiro da cabine, esta estourado NECESSARIO RECOLHER O TRATOR RE62910 8128352_02 
-";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
-151871390;Aprovisionamento;Preventiva Condicional;100829;Barra;Case Puma 140 4x4;24/05/2024;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema da cabine. Trocar os amortecedores traseiro da cabine L/E e L/D. estão ruins. 8138302_2
-";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
-151871392;Aprovisionamento;Preventiva Condicional;100829;Barra;Case Puma 140 4x4;24/05/2024;"B_OT_P_MEC_2,00_2 - Inspeção realizada no sistema de cabine, trocar kit coxin dianteiro da cabine, estão rachados. RECOLHER O EQUIPAMENTO OU LEVAR O SUPORTE COM COXIM PRENSADO 8134754_2 
-";B_OT_P;B;B_OT;3;OT;P;MATERIAL;
-151871404;Aprovisionamento;Preventiva Condicional;93173;Diamante;John Deere 7230 J 4x4;24/05/2024;"A_VZ_P_2,00_2 - Inspeção realizada no comando hidráulico, trocar reparo do comando, está vazando 8108702_4
+﻿O.S;Status;Classe;Frota;Unidade;Modelo;Entrada;Descrição da O.S;Coluna1;Coluna2;Coluna22;Priorização;Operação;Coluna3;Material/Laudo/Serviço;
+151880037;Aprovisionamento;Preventiva Condicional;102768;Barra;John Deere 8270R 4X4;07/06/2024;"A_MT_P_MEC_1,00_1 - Inspeção realizada no motor diesel, trocar braçadeira da mangueira de admissão, entrada do coletor de admissão (CASTELO), está com braçadeira irregular 8150837_1
 
-";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
-151871421;Aprovisionamento;Preventiva Condicional;93173;Diamante;John Deere 7230 J 4x4;24/05/2024;"A_OT_P_2,00_1 - Inspeção realizada no hidraulico, trocar bucha do eixo oscilante superior do braço elevador da barra hidraulica  8128780_2; 8073788_2
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151871424;Aprovisionamento;Preventiva Condicional;93173;Diamante;John Deere 7230 J 4x4;24/05/2024;"A_TR_P_1,00_1 - Inspeção realizada na transmissão, trocar visor de nivel, está ofuscado, ruim de ver o nivel 8101078_1
-
-";A_TR_P;A;A_TR;1;TR;P;MATERIAL;
-151874956;Aprovisionamento;Preventiva Condicional;93184;Barra;John Deere 7230 J 4x4;31/05/2024;"M_OT_P_MEC_1,00_1 - Inspeção realizada no sistema direção - trocar terminal de direção L/D e L/E , eixo de 3 metros esta com folga no terminal 8112653_01  8112601_01
-
-";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
-151875019;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;31/05/2024;"B_VZ_P_MEC_8,00_2 - Inspeção realizada no eixo traseiro - trocar bucha,retentor e rolamento da corneta do eixo traseiro  L/D, esta com principio de vazamento 8156266_01 8114057_01 8109242_01 NECESSARIO RECOLHER O FROTA E FERRAMENTA PARA PRENSAR 
-";B_VZ_P;B;B_VZ;3;VZ;P;MATERIAL;
-151879860;Aprovisionamento;Preventiva Condicional;102771;Diamante;John Deere 8270R 4X4;07/06/2024;"B_OT_P_0,30_1 - Inspeção realizada na estrutura - Instalar proteção infeiror do suporte dianteiro, esta sem a proteção é localizada na frente do diferencial dianteiro aonde sai o respiro do motor 8149625_01 8149612_04
-";B_OT_P;B;B_OT;3;OT;P;MATERIAL;
-151888264;Aprovisionamento;Preventiva Condicional;93184;Barra;John Deere 7230 J 4x4;20/06/2024;"B_OT_P_MEC_2,00_2 - Inspeção realizada na estrutura - trocar coxim traseiro da cabine, esta estourado NECESSARIO RECOLHER O TRATOR RE62910 8128352_02  
-";B_OT_P;B;B_OT;3;OT;P;MATERIAL;
-151888286;Aprovisionamento;Preventiva Condicional;93184;Barra;John Deere 7230 J 4x4;20/06/2024;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
-151888287;Aprovisionamento;Preventiva Condicional;93182;Barra;John Deere 7230 J 4x4;20/06/2024;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
-151888290;Aprovisionamento;Preventiva Condicional;93182;Barra;John Deere 7230 J 4x4;20/06/2024;"M_OT_P_ELE_2,00_1 - Inspeção realizada no sistema eletrico - trocar Controladora elétrica do painel módulo.  Número :RE183708   SAP;8112522_01 NECESSARIO ELETRICISTA
-";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
-151888319;Aprovisionamento;Preventiva Condicional;93187;Barra;John Deere 7230 J 4x4;20/06/2024;"M_OT_P_MEC_1,00_1 - Inspeção realizada na cabine - trocar borracha de vedação da porta L/E, não esta vedando direito 8140498_01 
-";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
-151888324;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;20/06/2024;"M_OT_P_MEC_1,00_1 - Inspeção realizada nas rodas - instalar espaçador da roda traseira L/E, esta sem 8133840_02 8095816_02 8095815_02
-";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
-151888333;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;20/06/2024;"B_OT_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro - instalar proteção do sensor de angulo da roda no eixo dianteiro, esta sem 8188563_01   8139583_02 8150312_02
-";B_OT_P;B;B_OT;3;OT;P;MATERIAL;
-151897385;Aprovisionamento;Preventiva Condicional;93187;Barra;John Deere 7230 J 4x4;04/07/2024;"A_MT_MEC_P_2,00_1 - Inspeção realizada no motor diesel - trocar tensor da correia e polia do motor, esta danificada  8110057_01 8152590_01 8130193_01
-";A_MT_M;A;A_MT;1;MT;M;MATERIAL;
-151919748;Aprovisionamento;Preventiva Condicional;93182;Barra;John Deere 7230 J 4x4;06/08/2024;"A_TR_P_ELE_0,30_1 - Inspeção realizada na transmissão, trocar visor de nivel de óleo da transmissão, está ofuscado, ruim de ver o nivel e com pequeno trinco  8101078_1 
-";A_TR_P;A;A_TR;1;TR;P;MATERIAL;
-151926219;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;16/08/2024;"M_MT_P_MEC_0,10_1 - Inspeção realizada no sistema admissao de ar - Trocar junta da tampa do filtro de ar externo, a junta esta gasta e auxilia na vedação da tampa com a carcaça do filtro Tampa do Pré-limpador 8144945_01
-";M_MT_P;M;M_MT;2;MT;P;MATERIAL;
-151926221;Aprovisionamento;Preventiva Condicional;93182;Barra;John Deere 7230 J 4x4;16/08/2024;"M_MT_P_MEC_0,10_1 - Inspeção realizada no sistema admissao de ar - Trocar junta da tampa do filtro de ar externo, a junta esta gasta e auxilia na vedação da tampa com a carcaça do filtro Tampa do Pré-limpador 8144945_01
-";M_MT_P;M;M_MT;2;MT;P;MATERIAL;
-151926222;Aprovisionamento;Preventiva Condicional;93184;Barra;John Deere 7230 J 4x4;16/08/2024;"M_MT_P_MEC_0,10_1 - Inspeção realizada no sistema admissao de ar - Trocar junta da tampa do filtro de ar externo, a junta esta gasta e auxilia na vedação da tampa com a carcaça do filtro Tampa do Pré-limpador 8144945_01
-";M_MT_P;M;M_MT;2;MT;P;MATERIAL;
-151930262;Aprovisionamento;Preventiva Condicional;93184;Barra;John Deere 7230 J 4x4;23/08/2024;"A_OT_P_MEC_1,00_2 - Inspeção realizada na cabine - Trocar as juntas do parabrisa dianteiro, esta junta vai na chapa em frente ao vidro para evitar vibração e quebra do vidro 8153986_04  8153970_02 NECESSARIO ESCADA PLATAFORMA
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151930270;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;23/08/2024;"A_OT_P_MEC_1,00_1 - Inspeção realizada no sistema direção - trocar terminal de direção L/D , eixo de 3 metros esta com folga no terminal 8112653_01 
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151940524;Aprovisionamento;Preventiva Condicional;102771;Diamante;John Deere 8270R 4X4;06/09/2024;"A_OT_P_0,30_1 - Inspeção realizada no sistema hidraulico - trocar pino de fixação do terceiro ponto, esta com o parafuso adaptado 8186511_01  8151470_01
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151940525;Aprovisionamento;Preventiva Condicional;102771;Diamante;John Deere 8270R 4X4;06/09/2024;"A_VZ_P_1,00_1 - Inspeçao realizada no eixo dianteiro, trocar cilindro de direção L/D  e L/E. está vazando 3011407_1; 3011351_1 
-";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
-151942068;Aprovisionamento;Preventiva Condicional;102771;Diamante;John Deere 8270R 4X4;09/09/2024;"A_VZ_P_4,00_2 - Inspeção realizada no motor diesel, trocar retentor dianteiro do virabrequim do motor diesel, está com vazamento. NECESSÁRIO LEVAR FERRAMENTAS ADEQUADAS PARA INSTALAÇÃO DO RETENTOR, REMOÇÃO DO DAMPER E TORQUIMETRO  OU PROGRAMAR PARA EQUIPE ESPECIALIZADA 8134725_1; 6000338_1
-";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
-151942736;Aprovisionamento;Preventiva Condicional;93185;Diamante;John Deere 7230 J 4x4;10/09/2024;"A_VZ_P_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
-151943784;Aprovisionamento;Preventiva Condicional;93182;Barra;John Deere 7230 J 4x4;12/09/2024;"A_OT_P_MEC_2,00_2 - Inspeção realizada no hidraulico, trocar bucha do eixo oscilante superior do braço elevador da barra hidraulica ( braço de suporte de levante da barra hidraulica )   8128780_2; 8073788_2
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151943786;Aprovisionamento;Preventiva Condicional;93184;Barra;John Deere 7230 J 4x4;12/09/2024;"M_OT_P_MEC_0,30_1 - Inspeção realizado no capo . trocar Cabo do capo,  está com o cabo estourado.  8093402_1 
-";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
-151943788;Aprovisionamento;Preventiva Condicional;93187;Barra;John Deere 7230 J 4x4;12/09/2024;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
-151943790;Aprovisionamento;Preventiva Condicional;93187;Barra;John Deere 7230 J 4x4;12/09/2024;"A_OT_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - Trocar pino de centragem e tensor lateral, esta com desgaste na alojamento do pino e no pino 8032918_02 8033444_02 8150527_02 8190642_02
-
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151947901;Aprovisionamento;Preventiva Condicional;93185;Diamante;John Deere 7230 J 4x4;18/09/2024;"A_MT_P_0,15_ - INspeção realizada no motor, trocar tampa do reservatório de arrefecimento, está quebrada 8120485_1
 ";A_MT_P;A;A_MT;1;MT;P;MATERIAL;
-151947902;Aprovisionamento;Preventiva Condicional;93185;Diamante;John Deere 7230 J 4x4;18/09/2024;"A_MT_P_1,00_1 - Inspeção realizada no motor, trocar a tampa do purificador de ar, está com as travas quebradas 8115574_1
+151880039;Aprovisionamento;Preventiva Condicional;102768;Barra;John Deere 8270R 4X4;07/06/2024;"A_MT_P_MEC_1,00_1 - Inspeção realizada no sistema de admissão, trocar braçadeira da admissão do turbo compressor,está com braçadeira irregular 8151314_2  ( mangueira de entrada na turbina parte fria )
 ";A_MT_P;A;A_MT;1;MT;P;MATERIAL;
-151949354;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;20/09/2024;"A_OT_P_ELE_1,00_1 - Inspeção realizada no sistema eletrico - Trocar controladora ICU, não esta funcionado os botoes 8126774_01 NECESSARIO ELETRICISTA
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151955899;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;30/09/2024;"A_OT_P_ELE_1,00_1 - Inspeção realizada no sistema eletrico - Trocar Interruptor Basculante, Mudança para Cima/para Baixo da velocidade 8122424_01 NECESSARIO ELETRICISTA
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151956980;Aprovisionamento;Preventiva Condicional;93185;Diamante;John Deere 7230 J 4x4;01/10/2024;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no comando hidráulico, trocar reparo do comando, está vazando 8108702_4
-";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
-151959544;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;04/10/2024;"M_OT_P_MEC_1_0,30 - Inspeção realizada na cabine - trocar cilindro a gas da porta L/E, esta sem ação e não segura a porta aberta 8114774_01
+151880041;Aprovisionamento;Preventiva Condicional;102768;Barra;John Deere 8270R 4X4;07/06/2024;"M_OT_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - trocar mangueira de pressão do acionamento da ventoinha L/E do motor, manguera sai da vavula de acionamento do varicool L/E do motor, esta ressecada e vazando oleo  8157688_01
 ";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
-151959547;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;04/10/2024;"A_VZ_P_MEC_1_2,00 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo 8108702_03 8122029_01 8001527_01
-";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
-151959568;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;04/10/2024;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine - Trocar as juntas do parabrisa dianteiro, esta junta vai na chapa em frente ao vidro para evitar vibração e quebra do vidro 8153986_04  NECESSARIO ESCADA PLATAFORMA 
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151959570;Aprovisionamento;Preventiva Condicional;93182;Barra;John Deere 7230 J 4x4;04/10/2024;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine - Trocar as juntas do parabrisa dianteiro, esta junta vai na chapa em frente ao vidro para evitar vibração e quebra do vidro 8153986_04 NECESSARIO ESCADA PLATAFORMA
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151959611;Aprovisionamento;Preventiva Condicional;93182;Barra;John Deere 7230 J 4x4;04/10/2024;"M_VZ_P_MEC_2_3,00 - Inspeção realizado no sistema da direção. Cilindro da direção está vazando. Trocar reparo do cilindro da direção.    8115254_1  NECESSARIO RECOLHER O TRATOR ( VERIFICAR JUNTO A GESTAO A TRATATIVA PARA TROCAR EM CAMPO OU RECOLHER O TRATOR )  
-";M_VZ_P;M;M_VZ;2;VZ;P;MATERIAL;
-151959759;Aprovisionamento;Preventiva Condicional;93187;Barra;John Deere 7230 J 4x4;04/10/2024;"A_OT_P_MEC_1,00_2 - Inspeção realizada na cabine - Trocar junta do parabrisa dianteiro, esta junta vai na chapa superior em frente ao vidro para evitar vibração e quebra do vidro 8153986_04  NECESSARIO ESCADA PLATAFORMA 4 DEGRAUS OU MAIS
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151963367;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;10/10/2024;"M_OT_P_MEC_2_2,00 - Inspeção realizada na estrutura - trocar coxim dianteiro e traseiro da cabine, esta estourado NECESSARIO RECOLHER O TRATOR RE62910 8128352_04  
+151880044;Aprovisionamento;Preventiva Condicional;102768;Barra;John Deere 8270R 4X4;07/06/2024;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema hidraulico, trocar bucha do eixo hidraulico superior, está com folga.8073788_2; 8073784_2 ; 8100621_2 
 ";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
-151971322;Aprovisionamento;Preventiva Condicional;93187;Barra;John Deere 7230 J 4x4;22/10/2024;"A_OT_P_ELE_1,00_1 - Inspeção realizada no ar condicionado - Trocar mangueira de entrada no filtro secador do ar condicionado, filtro secador fica na frente do trator em cima do radiadores  8184105_01 NECESSARIO REPOR O GAS REFRIGERANTE
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151971326;Aprovisionamento;Preventiva Condicional;93184;Barra;John Deere 7230 J 4x4;22/10/2024;"A_OT_P_MEC_0,30_1 - Inspeção realizada no sistema hidraulico -trocar pino elastico e o pino de apoio do tensor lateral da barra hidraulica, esta com adaptacoes  8110822_04 8105542_02
-";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-151971941;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;23/10/2024;"A_MT_P_MEC_1_0,30 - Inspeção realizada no sistema de arrefecimento - Trocar mangueira do reservatorio de agua ( tanque de expansão do liquido de arrefecimento ) esta ressecada e com fissura podendo furar e vazar o liquido 8140564_01  8109908_02 8149606_01
-";A_MT_P;A;A_MT;1;MT;P;MATERIAL;
-151978163;Aprovisionamento;Preventiva Condicional;93173;Diamante;John Deere 7230 J 4x4;04/11/2024;"A_VZ_P_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
-151988484;Aprovisionamento;Preventiva Condicional;61047;Barra;Case Puma 230 4x4;22/11/2024;"A_TR_P_MEC_1,00_1 - Inspeção realizada no sistema direção - Refazer o furo do parafuso do pino do cilindro de direção L/D, esta com o parafuso quebrado dentro da carcaça do diferencial 8190225_02 NECESSARIO LEVAR FURADEIRA,BROCA E MACHO PARA REFAZER O FURO ( MEDIDIDA DO PARAFUSO Hex, M8 x 1.25 x 20mm ) 
-";A_TR_P;A;A_TR;1;TR;P;MATERIAL;
-151988495;Aprovisionamento;Preventiva Condicional;61047;Barra;Case Puma 230 4x4;22/11/2024;"M_MT_P_MEC_0,10_1 - Inspeção realizada no sistema arrefecimento - trocar tampa do radiador de agua, esta com a tampa queimada e danificada 8141074_01 REALIZAR O SERVIÇO A FRIO 
-";M_MT_P;M;M_MT;2;MT;P;MATERIAL;
-151988499;Aprovisionamento;Preventiva Condicional;61047;Barra;Case Puma 230 4x4;22/11/2024;"M_MT_P_MEC_2,00_1 - Inspeção realizada no motor - trocar proteção da helice do radiador, esta quebrada na lateral 8140364_01 
-";M_MT_P;M;M_MT;2;MT;P;MATERIAL;
-151988504;Aprovisionamento;Preventiva Condicional;61047;Barra;Case Puma 230 4x4;22/11/2024;"A_MT_P_MEC_2,00_2 - Inspeção realizada no motor - trocar rolamento no suporte do cubo da helice do radiador, esta apresentando folga radial 8139245_01 8184238_01 8139270_01 NECESSARIO FERRAMENTA PARA SACAR O ROLAMENTO
-";A_MT_P;A;A_MT;1;MT;P;MATERIAL;
-151988514;Liberado para Programação;Preventiva Condicional;61047;Barra;Case Puma 230 4x4;22/11/2024;"A_SS_P_MEC_2,00_1 - Inspeção realizada na cabine - trocar alavanca de regulagem do assento do operador L/E do assento,  assento do operador esta com problema para correr o banco para frente e para tras  8138821_01  
- Material disponível na sala de Aprovisionamento
+151899229;Aprovisionamento;Preventiva Condicional;102768;Barra;John Deere 8270R 4X4;05/07/2024;"A_SS_P_MEC_0,30_1 - Inspeção realizada nas rodas - Instalar parafuso allen do cubo de roda traseiro L/D , esta sem o parafuso 8129573_02
 ";A_SS_P;A;A_SS;0;SS;P;MATERIAL;
-151989369;Aprovisionamento;Preventiva Condicional;140125;Barra;Case Puma 230 4x4;25/11/2024;"A_TR_P_MEC_1,00_1 - Inspeção realizada no sistema direção - Refazer o furo do parafuso do pino do cilindro de direção L/E, esta com o parafuso quebrado dentro da carcaça do diferencial 8190225_02 NECESSARIO LEVAR FURADEIRA,BROCA E MACHO PARA REFAZER O FURO ( MEDIDIDA DO PARAFUSO Hex, M8 x 1.25 x 20mm ) 
-";A_TR_P;A;A_TR;1;TR;P;MATERIAL;
-152555286;Aprovisionamento;Preventiva Condicional;93180;Barra;John Deere 7230 J 4x4;24/01/2025;"A_OT_P_ELE_1,00_1 - Inspeção realizada no sistema eletrico - Trocar Interruptor Basculante,Sistema de Gerenciamento do Implemento 8127569_01 NECESSARIO ELETRICISTA
+151943286;Aprovisionamento;Preventiva Condicional;102768;Barra;John Deere 8270R 4X4;11/09/2024;"A_VZ_P_MEC_0,30_1 - Inspeção realizada no sistema hidraulico - instalar mangueira de coleta de oleo da VCR traseira, esta sem e caindo oleo 8150018_01 8109908_01
+";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
+152547558;Aprovisionamento;Preventiva Condicional;102768;Barra;John Deere 8270R 4X4;20/12/2024;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
+152547568;Aprovisionamento;Preventiva Condicional;102768;Barra;John Deere 8270R 4X4;20/12/2024;"A_VZ_P_MEC_1_1,00 - Inspeção realizada no eixo dianteiro, trocar cilindro de direção L/E, está com vazamento.3011407_1.
+";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
+151871106;Aprovisionamento;Preventiva Condicional;102783;Barra;John Deere 8270R 4X4;24/05/2024;"A_OT_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal da barra de direção L/E , está com folga 8175002_1; 8150490_2; 8177726_1
 ";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
-152557466;Aprovisionamento;Preventiva Condicional;93185;Diamante;John Deere 7230 J 4x4;04/02/2025;"A_SS_P_MEC_1_2,00 - Inspeção realizada na estrutura - trocar cilindro do capo, esta sem ação 8184236_02
+151897184;Aprovisionamento;Preventiva Condicional;102783;Barra;John Deere 8270R 4X4;03/07/2024;"M_MT_P_MEC_0,20_1 - Inspeção realizada no sistema admissao - trocar mangote superior da entrada na carcaça do purificador de ar externo L/E, esta danificada 8142783_01 8149800_02
+";M_MT_P;M;M_MT;2;MT;P;MATERIAL;
+151897190;Aprovisionamento;Preventiva Condicional;102783;Barra;John Deere 8270R 4X4;03/07/2024;"A_VZ_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - trocar capa de vedação das VCR II traseira, a atual esta quebrada e acumulando terra nos engate 8138683_01
+";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
+151897192;Aprovisionamento;Preventiva Condicional;102783;Barra;John Deere 8270R 4X4;03/07/2024;"M_OT_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - trocar mangueira de pressão do acionamento da ventoinha L/E do motor, manguera sai da vavula de acionamento do varicool L/E do motor, esta ressecada 8157688_01  
+";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
+151954638;Aprovisionamento;Preventiva Condicional;102783;Barra;John Deere 8270R 4X4;27/09/2024;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";M_TR_P;M;M_TR;2;TR;P;MATERIAL;
+151954739;Aprovisionamento;Preventiva Condicional;102783;Barra;John Deere 8270R 4X4;27/09/2024;"A_MT_P_MEC_2,00_01 - Inspeção realizada sistema de motor diesel. Trocar correia do compressor de ar, Correia do compressor de ar danificada.  8137310_01
+";A_MT_P;A;A_MT;1;MT;P;MATERIAL;
+151968214;Aprovisionamento;Preventiva Condicional;102783;Barra;John Deere 8270R 4X4;18/10/2024;"M_OT_P_MEC_1,00_1 - Inspeção realizada no sistema de escape - trocar cano curva do silencioso ( escapamento ), esta trincado e furado e foi soldado 8146672_01 
+";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
+151968232;Aprovisionamento;Preventiva Condicional;102783;Barra;John Deere 8270R 4X4;18/10/2024;"A_OT_P_MEC_0,30_1 - Inspeção realizada na barra de tração - Instalar parafuso na barra de tração, parafuso vai aonde fica a placa de ajuste do tirante no meio da barra e esta faltando 8158991_01
+";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
+151972651;Aprovisionamento;Preventiva Condicional;102783;Barra;John Deere 8270R 4X4;24/10/2024;"A_TR_P_MEC_0,20_1 - Inspeção realizada na TDP - Instalar proteção no eixo da tdp traseira, esta sem 8151056_01 
+";A_TR_P;A;A_TR;1;TR;P;MATERIAL;
+152547564;Aprovisionamento;Preventiva Condicional;102783;Barra;John Deere 8270R 4X4;20/12/2024;"A_OT_P_MEC_1_1,00 Inspeção realizada na barra hidráulica, Colocar as cunhas dos batedores. 8066639_2,8149806_2,8139653_2,8139629_2.
+";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
+151864190;Aprovisionamento;Preventiva Condicional;102784;Barra;John Deere 8270R 4X4;13/05/2024;"A_OT_P_MEC_2,00_1 - Inspeção realizada no sistema direção - Trocar terminal da barra de direção L/D e L/E, esta com folga 8150480_02 8150490_04 8177726_02
+";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
+151971423;Aprovisionamento;Preventiva Condicional;102784;Barra;John Deere 8270R 4X4;23/10/2024;"A_TR_P_MEC_2,00_2 - Inspeção realizada no eixo dianteiro - Trocar rolamento do articulador L/D, esta com rolamento estourado 8141292_01 8141270_01 
+";A_TR_P;A;A_TR;1;TR;P;MATERIAL;
+151994715;Liberado para Programação;Preventiva Condicional;102784;Barra;John Deere 8270R 4X4;02/12/2024;"A_OT_P_MEC_1,00_1 - Inspeção realizada na estrutura - instalar proteção inferior dos radiadores, sem sem pondendo pegar toco e danificar o radiador 8149625_01(P5) 8149612_04
+";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
+152547560;Aprovisionamento;Preventiva Condicional;102784;Barra;John Deere 8270R 4X4;20/12/2024;"M_OT_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - trocar mangueira de pressão do acionamento da ventoinha L/E do motor, manguera sai da vavula de acionamento do varicool L/E do motor, esta ressecada 8157688_01 
+";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
+152547561;Aprovisionamento;Preventiva Condicional;102784;Barra;John Deere 8270R 4X4;20/12/2024;"A_OT_P_MEC_1_1,00  Inspeção realizada no sistema da barra hidráulica.Colocar as cunhas dos batedores. 8066639_2,8149806_2,8139653_2,8139629_2.
+";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
+152547565;Aprovisionamento;Preventiva Condicional;102784;Barra;John Deere 8270R 4X4;20/12/2024;"A_VZ_P_MEC_1_1,00 - Inspeção realizada no eixo dianteiro, trocar cilindro de direção L/E, está com vazamento crítico,.3011407_1. 
+";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
+151894310;Aprovisionamento;Preventiva Condicional;512042;Barra;Case Puma 200 4x4;28/06/2024;"M_OT_P_ELE_2,00_1 - Inspeção realizado no sistema elétrico. Trocar farol dianteiro L/D  e L/E,  está trincado a lente e baixa luminosidade.   8136258_1. 8139232_1  
+";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
+151894738;Aprovisionamento;Preventiva Condicional;512042;Barra;Case Puma 200 4x4;01/07/2024;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema de direção, trocar pino e rotulas dos cilindros de direção L/D e L/E, esta com folga . 8131458_2  (P5)8019770_2(P5) 8141370_2 (P5) 6010584_4 8032784_2 (P5) 8005198_4   8044744_2  8109733_4 (P5)
+";M_OT_P;M;M_OT;2;OT;P;MATERIAL;
+151926408;Aprovisionamento;Preventiva Condicional;512042;Barra;Case Puma 200 4x4;16/08/2024;"A_MT_P_MEC_0,30_1 - Inspeção realizada no sistema admissao - Instalar vedação de proteção da mangueira do intercooler L/E do motor diesel, esta sem e esfregando a mangueira proximo a entrada do radiador 8189971_01
+";A_MT_P;A;A_MT;1;MT;P;MATERIAL;
+151954767;Liberado para Programação;Preventiva Condicional;512042;Barra;Case Puma 200 4x4;27/09/2024;"A_OT_P_MEC_0,10_1 - Inspeção realizada no sistema eletrico. trocar tampa da bateria, esta quebrada a tampa.       8178787_1       Material disponível na sala de Aprovisionamento
+";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
+151997356;Liberado para Programação;Preventiva Condicional;512042;Barra;Case Puma 200 4x4;09/12/2024;"A_MT_P_MEC_1,00_1,00- Inspeção realizada no sistema de motor. Trocar tensor do motor,esta começando estourar.       8129892_1  Material disponível na sala de Aprovisionamento
+";A_MT_P;A;A_MT;1;MT;P;MATERIAL;
+151997363;Aprovisionamento;Preventiva Condicional;512042;Barra;Case Puma 200 4x4;09/12/2024;"A_TR_P_MEC_2,00_2,00 - Inspeção realizada no sistema de transmissão. Trocar reparo da carcaça do filtro de transmissão. Esta vazando. NECESSARIO ESGOTAR O OLEO DA TRANSMISSÃO.        8140307_2   8125593_1     
+";A_TR_P;A;A_TR;1;TR;P;MATERIAL;
+151997378;Liberado para Programação;Preventiva Condicional;512042;Barra;Case Puma 200 4x4;09/12/2024;"A_MT_P_MEC_1,00_1,00 - Inspeção realizada no sistema de motor. Trocar vareta do nivel de oleo. esta vazando/ sem ação na vedação.            8129891_1    Material disponível na sala de Aprovisionamento
+
+";A_MT_P;A;A_MT;1;MT;P;MATERIAL;
+151999246;Aprovisionamento;Preventiva Condicional;4465170;Diamante;John Deere CH570 1L Colhe;13/12/2024;"A_SS_P_MEC_1_2,00  Inspeção realizada no sistema plataforma.  Trocar abraçadeira do guarda corpo L/E, a mesma quebrada. 8088632_02 8089023_02;  8114877_08;   8119030_08
 ";A_SS_P;A;A_SS;0;SS;P;MATERIAL;
-152557467;Liberado para Programação;Preventiva Condicional;93185;Diamante;John Deere 7230 J 4x4;04/02/2025;"A_SS_S_ELE_1_2,00 - Inspeção realizada no sistema eletrico, corrigir sistema eletrico da buzina, não está funcionando
-";A_SS_S;A;A_SS;0;SS;S;SERVIÇO;
-152558709;Aprovisionamento;Preventiva Condicional;102771;Diamante;John Deere 8270R 4X4;10/02/2025;"A_VZ_MEC_1_3,00 - Inspeção realizada na transmissão, trocar retentor do eixo cardam de acionamento do diferencial dianteiro, está com vazamento.8122265_1; 8150037_2; 8150036_1
-";A_VZ_M;A;A_VZ;1;VZ;M;MATERIAL;
+151999254;Aprovisionamento;Preventiva Condicional;4465170;Diamante;John Deere CH570 1L Colhe;13/12/2024;"A_MT_P_MEC_0,30_1 - Inspeção realizada no sistema de admissão, trocar isolador de atrito do tubo de admissão, está sem e ocasionando o atrito do tubo de admissão ao chassi, risco de perfurar o tubo e contaminar o motor diesel por sílica 8137648_1 
+";A_MT_P;A;A_MT;1;MT;P;MATERIAL;
+152552395;Aprovisionamento;Preventiva Condicional;4465170;Diamante;John Deere CH570 1L Colhe;13/01/2025;"A_OT_P_MEC_0,30_2 - Inspeção realizada no sistema do elevador, trocar batedor do elevador, estão gastos.  8065112_2     6010369_4         6001446_4
+";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
+152552441;Liberado para Programação;Preventiva Condicional;4465170;Diamante;John Deere CH570 1L Colhe;13/01/2025;"A_VZ_I_MEC_3,00_2 - Inspeção realizado no sistema da caixa de base. Retirar vazamento de oleo na caixa de base
+";A_VZ_I;A;A_VZ;1;VZ;I;SERVIÇO;
+152558934;Liberado para Programação;Preventiva Condicional;4465170;Diamante;John Deere CH570 1L Colhe;11/02/2025;"A_VZ_I_MEC_1_2,00 - Inspeção realizada no motor diesel, verificar vazamento de lubrificante proximo a vareta de nivél, estpa com vazamento 
+";A_VZ_I;A;A_VZ;1;VZ;I;SERVIÇO;
+152558952;Aprovisionamento;Preventiva Condicional;4465170;Diamante;John Deere CH570 1L Colhe;11/02/2025;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";A_SS_P;A;A_SS;0;SS;P;MATERIAL;
+152559162;Aprovisionamento;Preventiva Condicional;4465170;Diamante;John Deere CH570 1L Colhe;12/02/2025;"A_SS_P_MEC_2_2,00 - Inspeção realizada no elevador, trocar bucha de desgaste e mancal de fixação do elevador a mesa do giro, está com folga LD 8058753_2; 8059086_2; 6010551   NECESSÁRIO CAMINHÃO MUNK PARA SUSPENDER O ELEVADOR     
+";A_SS_P;A;A_SS;0;SS;P;MATERIAL;
+151979731;Aprovisionamento;Preventiva Condicional;10802160;Diamante;Case Puma 215 4x4 ;07/11/2024;"A_TR_MEC_0,50_01 - Inspeção realizada sistema de transmissão.Está faltando respiro da transmissão. Colocar respiro da transmissão. 01_8129979 
+";A_TR_M;A;A_TR;1;TR;M;MATERIAL;
+152552482;Aprovisionamento;Preventiva Condicional;10802160;Diamante;Case Puma 215 4x4 ;13/01/2025;"A_VZ_P_MEC_2,00_1 - Inspeção realizada na transmissao - Corrigir vazamento de oleo em cima da transmissão, vazamento em cima da tampa da transmissao 8003172_01  8001586_03  8111887_05  8148910_01  8001556_01  8174320_01  8057361_01 
+";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
+152552156;Liberado para Programação;Preventiva Condicional;10802162;Diamante;Case Puma 215 4x4 ;13/01/2025;"A_VZ_S_MEC_2,00_1 - Inspeção realizada no sistema de alimentação . Corrigir vazamento nos canos de bico injetor do motor diesel
+";A_VZ_S;A;A_VZ;1;VZ;S;SERVIÇO;
+152552159;Liberado para Programação;Preventiva Condicional;10802162;Diamante;Case Puma 215 4x4 ;13/01/2025;"A_VZ_P_MEC_1,00_1 - Inspeção realizada no sistema direção . Trocar anilha de vedação da mangueira do orbitrol ( mangueira tipo banjo ) . Está vazando. 8133107_02   Material disponível na sala de Aprovisionamento
+";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
+151875033;Liberado para Programação;Preventiva Condicional;11802274;Diamante;Case Puma 215 4x4 ;31/05/2024;"A_MT_P_1,00_1,00 - Inspeção realizada no sistema do motor. Trocar as mangueiras de alimentação de combustível. Estão ressecadas.8150822_1,8151542_1(P),8151541_1. (P5)Frente 261    GERADO RC DE 3 PARA JHONE SENDO 2 ITENS PARA ELE  E 1 PARA ESSA OS  MATERIAL  8150822    -   (MATERIAL NA SALA DE APROVISIONAMENTO)
+";A_MT_P;A;A_MT;1;MT;P;MATERIAL;
+151979642;Aprovisionamento;Preventiva Condicional;11802274;Diamante;Case Puma 215 4x4 ;07/11/2024;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar a cavilha superior LD ( que possui o sensor ), está sem o condutor de lubrificação  8145141_1; 8162309_1; 8109845_1; 8167849_1; 8150941_1; 8185733_1; 8109844_1
+";A_OT_P;A;A_OT;1;OT;P;MATERIAL;
+152552478;Aprovisionamento;Preventiva Condicional;11802274;Diamante;Case Puma 215 4x4 ;13/01/2025;"A_MT_P_MEC_1,00_1 - Inspeção realizada no sistema de motor. Trocar tensor de correia do motor, esta folgado.          8129892_1
+";A_MT_P;A;A_MT;1;MT;P;MATERIAL;
+152552484;Aprovisionamento;Preventiva Condicional;11802274;Diamante;Case Puma 215 4x4 ;13/01/2025;"A_VZ_P_2,00_2 - Inspeção realizado no sistema hidraulico. Comando hidraulico está vazando no comando. Trocar reparo do comando do hidraulico traseiro.  8037627_1.   8130009_03  
+";A_VZ_P;A;A_VZ;1;VZ;P;MATERIAL;
+152558937;Aprovisionamento;Preventiva Condicional;11802274;Diamante;Case Puma 215 4x4 ;11/02/2025;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";A_OT_P;A;A_OT;1;OT;P;MATERIAL;

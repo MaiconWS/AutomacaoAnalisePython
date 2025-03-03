@@ -1,200 +1,299 @@
 O.S;Descricao Da Ordem;Codigo Produto;Quantidade de Produto
-151868468;"M_OT_P_MEC_0,10_1 - Inspeção realizada no sistema hidraulico - trocar tampa do bocal de abastecimento de oleo da transmissao AL165074 8106871_01
-";8106871;01
-151868470;"M_OT_P_MEC_2,00_2 - Inspeção realizada na estrutura - trocar coxim traseiro da cabine, esta estourado NECESSARIO RECOLHER O TRATOR RE62910 8128352_02 
-";8128352;02
-151871390;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema da cabine. Trocar os amortecedores traseiro da cabine L/E e L/D. estão ruins. 8138302_2
-";8138302;2
-151871392;"B_OT_P_MEC_2,00_2 - Inspeção realizada no sistema de cabine, trocar kit coxin dianteiro da cabine, estão rachados. RECOLHER O EQUIPAMENTO OU LEVAR O SUPORTE COM COXIM PRENSADO 8134754_2 
-";8134754;2
-151871404;"A_VZ_P_2,00_2 - Inspeção realizada no comando hidráulico, trocar reparo do comando, está vazando 8108702_4
+151880037;"A_MT_P_MEC_1,00_1 - Inspeção realizada no motor diesel, trocar braçadeira da mangueira de admissão, entrada do coletor de admissão (CASTELO), está com braçadeira irregular 8150837_1
 
-";8108702;4
-151871421;"A_OT_P_2,00_1 - Inspeção realizada no hidraulico, trocar bucha do eixo oscilante superior do braço elevador da barra hidraulica  8128780_2; 8073788_2
-";8128780;2
-151871421;"A_OT_P_2,00_1 - Inspeção realizada no hidraulico, trocar bucha do eixo oscilante superior do braço elevador da barra hidraulica  8128780_2; 8073788_2
+";8150837;1
+151880039;"A_MT_P_MEC_1,00_1 - Inspeção realizada no sistema de admissão, trocar braçadeira da admissão do turbo compressor,está com braçadeira irregular 8151314_2  ( mangueira de entrada na turbina parte fria )
+";8151314;2
+151880041;"M_OT_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - trocar mangueira de pressão do acionamento da ventoinha L/E do motor, manguera sai da vavula de acionamento do varicool L/E do motor, esta ressecada e vazando oleo  8157688_01
+";8157688;01
+151880044;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema hidraulico, trocar bucha do eixo hidraulico superior, está com folga.8073788_2; 8073784_2 ; 8100621_2 
 ";8073788;2
-151871424;"A_TR_P_1,00_1 - Inspeção realizada na transmissão, trocar visor de nivel, está ofuscado, ruim de ver o nivel 8101078_1
-
-";8101078;1
-151874956;"M_OT_P_MEC_1,00_1 - Inspeção realizada no sistema direção - trocar terminal de direção L/D e L/E , eixo de 3 metros esta com folga no terminal 8112653_01  8112601_01
-
-";8112653;01
-151874956;"M_OT_P_MEC_1,00_1 - Inspeção realizada no sistema direção - trocar terminal de direção L/D e L/E , eixo de 3 metros esta com folga no terminal 8112653_01  8112601_01
-
-";8112601;01
-151875019;"B_VZ_P_MEC_8,00_2 - Inspeção realizada no eixo traseiro - trocar bucha,retentor e rolamento da corneta do eixo traseiro  L/D, esta com principio de vazamento 8156266_01 8114057_01 8109242_01 NECESSARIO RECOLHER O FROTA E FERRAMENTA PARA PRENSAR 
-";8156266;01
-151875019;"B_VZ_P_MEC_8,00_2 - Inspeção realizada no eixo traseiro - trocar bucha,retentor e rolamento da corneta do eixo traseiro  L/D, esta com principio de vazamento 8156266_01 8114057_01 8109242_01 NECESSARIO RECOLHER O FROTA E FERRAMENTA PARA PRENSAR 
-";8114057;01
-151875019;"B_VZ_P_MEC_8,00_2 - Inspeção realizada no eixo traseiro - trocar bucha,retentor e rolamento da corneta do eixo traseiro  L/D, esta com principio de vazamento 8156266_01 8114057_01 8109242_01 NECESSARIO RECOLHER O FROTA E FERRAMENTA PARA PRENSAR 
-";8109242;01
-151879860;"B_OT_P_0,30_1 - Inspeção realizada na estrutura - Instalar proteção infeiror do suporte dianteiro, esta sem a proteção é localizada na frente do diferencial dianteiro aonde sai o respiro do motor 8149625_01 8149612_04
-";8149625;01
-151879860;"B_OT_P_0,30_1 - Inspeção realizada na estrutura - Instalar proteção infeiror do suporte dianteiro, esta sem a proteção é localizada na frente do diferencial dianteiro aonde sai o respiro do motor 8149625_01 8149612_04
-";8149612;04
-151888264;"B_OT_P_MEC_2,00_2 - Inspeção realizada na estrutura - trocar coxim traseiro da cabine, esta estourado NECESSARIO RECOLHER O TRATOR RE62910 8128352_02  
-";8128352;02
-151888286;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8108702;03
-151888286;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8122029;03
-151888286;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8001527;03
-151888287;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8108702;03
-151888287;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8122029;03
-151888287;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8001527;03
-151888290;"M_OT_P_ELE_2,00_1 - Inspeção realizada no sistema eletrico - trocar Controladora elétrica do painel módulo.  Número :RE183708   SAP;8112522_01 NECESSARIO ELETRICISTA
-";8112522;01
-151888319;"M_OT_P_MEC_1,00_1 - Inspeção realizada na cabine - trocar borracha de vedação da porta L/E, não esta vedando direito 8140498_01 
-";8140498;01
-151888324;"M_OT_P_MEC_1,00_1 - Inspeção realizada nas rodas - instalar espaçador da roda traseira L/E, esta sem 8133840_02 8095816_02 8095815_02
-";8133840;02
-151888324;"M_OT_P_MEC_1,00_1 - Inspeção realizada nas rodas - instalar espaçador da roda traseira L/E, esta sem 8133840_02 8095816_02 8095815_02
-";8095816;02
-151888324;"M_OT_P_MEC_1,00_1 - Inspeção realizada nas rodas - instalar espaçador da roda traseira L/E, esta sem 8133840_02 8095816_02 8095815_02
-";8095815;02
-151888333;"B_OT_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro - instalar proteção do sensor de angulo da roda no eixo dianteiro, esta sem 8188563_01   8139583_02 8150312_02
-";8188563;01
-151888333;"B_OT_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro - instalar proteção do sensor de angulo da roda no eixo dianteiro, esta sem 8188563_01   8139583_02 8150312_02
-";8139583;02
-151888333;"B_OT_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro - instalar proteção do sensor de angulo da roda no eixo dianteiro, esta sem 8188563_01   8139583_02 8150312_02
-";8150312;02
-151897385;"A_MT_MEC_P_2,00_1 - Inspeção realizada no motor diesel - trocar tensor da correia e polia do motor, esta danificada  8110057_01 8152590_01 8130193_01
-";8110057;01
-151897385;"A_MT_MEC_P_2,00_1 - Inspeção realizada no motor diesel - trocar tensor da correia e polia do motor, esta danificada  8110057_01 8152590_01 8130193_01
-";8152590;01
-151897385;"A_MT_MEC_P_2,00_1 - Inspeção realizada no motor diesel - trocar tensor da correia e polia do motor, esta danificada  8110057_01 8152590_01 8130193_01
-";8130193;01
-151919748;"A_TR_P_ELE_0,30_1 - Inspeção realizada na transmissão, trocar visor de nivel de óleo da transmissão, está ofuscado, ruim de ver o nivel e com pequeno trinco  8101078_1 
-";8101078;1
-151926219;"M_MT_P_MEC_0,10_1 - Inspeção realizada no sistema admissao de ar - Trocar junta da tampa do filtro de ar externo, a junta esta gasta e auxilia na vedação da tampa com a carcaça do filtro Tampa do Pré-limpador 8144945_01
-";8144945;01
-151926221;"M_MT_P_MEC_0,10_1 - Inspeção realizada no sistema admissao de ar - Trocar junta da tampa do filtro de ar externo, a junta esta gasta e auxilia na vedação da tampa com a carcaça do filtro Tampa do Pré-limpador 8144945_01
-";8144945;01
-151926222;"M_MT_P_MEC_0,10_1 - Inspeção realizada no sistema admissao de ar - Trocar junta da tampa do filtro de ar externo, a junta esta gasta e auxilia na vedação da tampa com a carcaça do filtro Tampa do Pré-limpador 8144945_01
-";8144945;01
-151930262;"A_OT_P_MEC_1,00_2 - Inspeção realizada na cabine - Trocar as juntas do parabrisa dianteiro, esta junta vai na chapa em frente ao vidro para evitar vibração e quebra do vidro 8153986_04  8153970_02 NECESSARIO ESCADA PLATAFORMA
-";8153986;04
-151930262;"A_OT_P_MEC_1,00_2 - Inspeção realizada na cabine - Trocar as juntas do parabrisa dianteiro, esta junta vai na chapa em frente ao vidro para evitar vibração e quebra do vidro 8153986_04  8153970_02 NECESSARIO ESCADA PLATAFORMA
-";8153970;02
-151930270;"A_OT_P_MEC_1,00_1 - Inspeção realizada no sistema direção - trocar terminal de direção L/D , eixo de 3 metros esta com folga no terminal 8112653_01 
-";8112653;01
-151940524;"A_OT_P_0,30_1 - Inspeção realizada no sistema hidraulico - trocar pino de fixação do terceiro ponto, esta com o parafuso adaptado 8186511_01  8151470_01
-";8186511;01
-151940524;"A_OT_P_0,30_1 - Inspeção realizada no sistema hidraulico - trocar pino de fixação do terceiro ponto, esta com o parafuso adaptado 8186511_01  8151470_01
-";8151470;01
-151940525;"A_VZ_P_1,00_1 - Inspeçao realizada no eixo dianteiro, trocar cilindro de direção L/D  e L/E. está vazando 3011407_1; 3011351_1 
-";3011407;1
-151940525;"A_VZ_P_1,00_1 - Inspeçao realizada no eixo dianteiro, trocar cilindro de direção L/D  e L/E. está vazando 3011407_1; 3011351_1 
-";3011351;1
-151942068;"A_VZ_P_4,00_2 - Inspeção realizada no motor diesel, trocar retentor dianteiro do virabrequim do motor diesel, está com vazamento. NECESSÁRIO LEVAR FERRAMENTAS ADEQUADAS PARA INSTALAÇÃO DO RETENTOR, REMOÇÃO DO DAMPER E TORQUIMETRO  OU PROGRAMAR PARA EQUIPE ESPECIALIZADA 8134725_1; 6000338_1
-";8134725;1
-151942068;"A_VZ_P_4,00_2 - Inspeção realizada no motor diesel, trocar retentor dianteiro do virabrequim do motor diesel, está com vazamento. NECESSÁRIO LEVAR FERRAMENTAS ADEQUADAS PARA INSTALAÇÃO DO RETENTOR, REMOÇÃO DO DAMPER E TORQUIMETRO  OU PROGRAMAR PARA EQUIPE ESPECIALIZADA 8134725_1; 6000338_1
-";6000338;1
-151942736;"A_VZ_P_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8108702;03
-151942736;"A_VZ_P_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8122029;03
-151942736;"A_VZ_P_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8001527;03
-151943784;"A_OT_P_MEC_2,00_2 - Inspeção realizada no hidraulico, trocar bucha do eixo oscilante superior do braço elevador da barra hidraulica ( braço de suporte de levante da barra hidraulica )   8128780_2; 8073788_2
-";8128780;2
-151943784;"A_OT_P_MEC_2,00_2 - Inspeção realizada no hidraulico, trocar bucha do eixo oscilante superior do braço elevador da barra hidraulica ( braço de suporte de levante da barra hidraulica )   8128780_2; 8073788_2
-";8073788;2
-151943786;"M_OT_P_MEC_0,30_1 - Inspeção realizado no capo . trocar Cabo do capo,  está com o cabo estourado.  8093402_1 
-";8093402;1
-151943788;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8108702;03
-151943788;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8122029;03
-151943788;"A_VZ_P_MEC_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8001527;03
-151943790;"A_OT_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - Trocar pino de centragem e tensor lateral, esta com desgaste na alojamento do pino e no pino 8032918_02 8033444_02 8150527_02 8190642_02
-
-";8032918;02
-151943790;"A_OT_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - Trocar pino de centragem e tensor lateral, esta com desgaste na alojamento do pino e no pino 8032918_02 8033444_02 8150527_02 8190642_02
-
-";8033444;02
-151943790;"A_OT_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - Trocar pino de centragem e tensor lateral, esta com desgaste na alojamento do pino e no pino 8032918_02 8033444_02 8150527_02 8190642_02
-
-";8150527;02
-151943790;"A_OT_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - Trocar pino de centragem e tensor lateral, esta com desgaste na alojamento do pino e no pino 8032918_02 8033444_02 8150527_02 8190642_02
-
-";8190642;02
-151947901;"A_MT_P_0,15_ - INspeção realizada no motor, trocar tampa do reservatório de arrefecimento, está quebrada 8120485_1
-";8120485;1
-151947902;"A_MT_P_1,00_1 - Inspeção realizada no motor, trocar a tampa do purificador de ar, está com as travas quebradas 8115574_1
-";8115574;1
-151949354;"A_OT_P_ELE_1,00_1 - Inspeção realizada no sistema eletrico - Trocar controladora ICU, não esta funcionado os botoes 8126774_01 NECESSARIO ELETRICISTA
-";8126774;01
-151955899;"A_OT_P_ELE_1,00_1 - Inspeção realizada no sistema eletrico - Trocar Interruptor Basculante, Mudança para Cima/para Baixo da velocidade 8122424_01 NECESSARIO ELETRICISTA
-";8122424;01
-151956980;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no comando hidráulico, trocar reparo do comando, está vazando 8108702_4
-";8108702;4
-151959544;"M_OT_P_MEC_1_0,30 - Inspeção realizada na cabine - trocar cilindro a gas da porta L/E, esta sem ação e não segura a porta aberta 8114774_01
-";8114774;01
-151959547;"A_VZ_P_MEC_1_2,00 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo 8108702_03 8122029_01 8001527_01
-";8108702;03
-151959547;"A_VZ_P_MEC_1_2,00 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo 8108702_03 8122029_01 8001527_01
-";8122029;01
-151959547;"A_VZ_P_MEC_1_2,00 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo 8108702_03 8122029_01 8001527_01
-";8001527;01
-151959568;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine - Trocar as juntas do parabrisa dianteiro, esta junta vai na chapa em frente ao vidro para evitar vibração e quebra do vidro 8153986_04  NECESSARIO ESCADA PLATAFORMA 
-";8153986;04
-151959570;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine - Trocar as juntas do parabrisa dianteiro, esta junta vai na chapa em frente ao vidro para evitar vibração e quebra do vidro 8153986_04 NECESSARIO ESCADA PLATAFORMA
-";8153986;04
-151959611;"M_VZ_P_MEC_2_3,00 - Inspeção realizado no sistema da direção. Cilindro da direção está vazando. Trocar reparo do cilindro da direção.    8115254_1  NECESSARIO RECOLHER O TRATOR ( VERIFICAR JUNTO A GESTAO A TRATATIVA PARA TROCAR EM CAMPO OU RECOLHER O TRATOR )  
-";8115254;1
-151959759;"A_OT_P_MEC_1,00_2 - Inspeção realizada na cabine - Trocar junta do parabrisa dianteiro, esta junta vai na chapa superior em frente ao vidro para evitar vibração e quebra do vidro 8153986_04  NECESSARIO ESCADA PLATAFORMA 4 DEGRAUS OU MAIS
-";8153986;04
-151963367;"M_OT_P_MEC_2_2,00 - Inspeção realizada na estrutura - trocar coxim dianteiro e traseiro da cabine, esta estourado NECESSARIO RECOLHER O TRATOR RE62910 8128352_04  
-";8128352;04
-151971322;"A_OT_P_ELE_1,00_1 - Inspeção realizada no ar condicionado - Trocar mangueira de entrada no filtro secador do ar condicionado, filtro secador fica na frente do trator em cima do radiadores  8184105_01 NECESSARIO REPOR O GAS REFRIGERANTE
-";8184105;01
-151971326;"A_OT_P_MEC_0,30_1 - Inspeção realizada no sistema hidraulico -trocar pino elastico e o pino de apoio do tensor lateral da barra hidraulica, esta com adaptacoes  8110822_04 8105542_02
-";8110822;04
-151971326;"A_OT_P_MEC_0,30_1 - Inspeção realizada no sistema hidraulico -trocar pino elastico e o pino de apoio do tensor lateral da barra hidraulica, esta com adaptacoes  8110822_04 8105542_02
-";8105542;02
-151971941;"A_MT_P_MEC_1_0,30 - Inspeção realizada no sistema de arrefecimento - Trocar mangueira do reservatorio de agua ( tanque de expansão do liquido de arrefecimento ) esta ressecada e com fissura podendo furar e vazar o liquido 8140564_01  8109908_02 8149606_01
-";8140564;01
-151971941;"A_MT_P_MEC_1_0,30 - Inspeção realizada no sistema de arrefecimento - Trocar mangueira do reservatorio de agua ( tanque de expansão do liquido de arrefecimento ) esta ressecada e com fissura podendo furar e vazar o liquido 8140564_01  8109908_02 8149606_01
-";8109908;02
-151971941;"A_MT_P_MEC_1_0,30 - Inspeção realizada no sistema de arrefecimento - Trocar mangueira do reservatorio de agua ( tanque de expansão do liquido de arrefecimento ) esta ressecada e com fissura podendo furar e vazar o liquido 8140564_01  8109908_02 8149606_01
-";8149606;01
-151978163;"A_VZ_P_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8108702;03
-151978163;"A_VZ_P_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8122029;03
-151978163;"A_VZ_P_2,00_1 - Inspeção realizada no sistema hidraulico - trocar kit reparo da 2º 3º 4º VCR, esta vazando oleo pois o corpo da valvula de regulagem esta danificado e precisa trocar pois é de aluminum 8108702_03 8122029_03 8001527_03 
-";8001527;03
-151988484;"A_TR_P_MEC_1,00_1 - Inspeção realizada no sistema direção - Refazer o furo do parafuso do pino do cilindro de direção L/D, esta com o parafuso quebrado dentro da carcaça do diferencial 8190225_02 NECESSARIO LEVAR FURADEIRA,BROCA E MACHO PARA REFAZER O FURO ( MEDIDIDA DO PARAFUSO Hex, M8 x 1.25 x 20mm ) 
-";8190225;02
-151988495;"M_MT_P_MEC_0,10_1 - Inspeção realizada no sistema arrefecimento - trocar tampa do radiador de agua, esta com a tampa queimada e danificada 8141074_01 REALIZAR O SERVIÇO A FRIO 
-";8141074;01
-151988499;"M_MT_P_MEC_2,00_1 - Inspeção realizada no motor - trocar proteção da helice do radiador, esta quebrada na lateral 8140364_01 
-";8140364;01
-151988504;"A_MT_P_MEC_2,00_2 - Inspeção realizada no motor - trocar rolamento no suporte do cubo da helice do radiador, esta apresentando folga radial 8139245_01 8184238_01 8139270_01 NECESSARIO FERRAMENTA PARA SACAR O ROLAMENTO
-";8139245;01
-151988504;"A_MT_P_MEC_2,00_2 - Inspeção realizada no motor - trocar rolamento no suporte do cubo da helice do radiador, esta apresentando folga radial 8139245_01 8184238_01 8139270_01 NECESSARIO FERRAMENTA PARA SACAR O ROLAMENTO
-";8184238;01
-151988504;"A_MT_P_MEC_2,00_2 - Inspeção realizada no motor - trocar rolamento no suporte do cubo da helice do radiador, esta apresentando folga radial 8139245_01 8184238_01 8139270_01 NECESSARIO FERRAMENTA PARA SACAR O ROLAMENTO
-";8139270;01
-151988514;"A_SS_P_MEC_2,00_1 - Inspeção realizada na cabine - trocar alavanca de regulagem do assento do operador L/E do assento,  assento do operador esta com problema para correr o banco para frente e para tras  8138821_01  
- Material disponível na sala de Aprovisionamento
-";8138821;01
-151989369;"A_TR_P_MEC_1,00_1 - Inspeção realizada no sistema direção - Refazer o furo do parafuso do pino do cilindro de direção L/E, esta com o parafuso quebrado dentro da carcaça do diferencial 8190225_02 NECESSARIO LEVAR FURADEIRA,BROCA E MACHO PARA REFAZER O FURO ( MEDIDIDA DO PARAFUSO Hex, M8 x 1.25 x 20mm ) 
-";8190225;02
-152555286;"A_OT_P_ELE_1,00_1 - Inspeção realizada no sistema eletrico - Trocar Interruptor Basculante,Sistema de Gerenciamento do Implemento 8127569_01 NECESSARIO ELETRICISTA
-";8127569;01
-152557466;"A_SS_P_MEC_1_2,00 - Inspeção realizada na estrutura - trocar cilindro do capo, esta sem ação 8184236_02
-";8184236;02
-152558709;"A_VZ_MEC_1_3,00 - Inspeção realizada na transmissão, trocar retentor do eixo cardam de acionamento do diferencial dianteiro, está com vazamento.8122265_1; 8150037_2; 8150036_1
+151880044;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema hidraulico, trocar bucha do eixo hidraulico superior, está com folga.8073788_2; 8073784_2 ; 8100621_2 
+";8073784;2
+151880044;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema hidraulico, trocar bucha do eixo hidraulico superior, está com folga.8073788_2; 8073784_2 ; 8100621_2 
+";8100621;2
+151899229;"A_SS_P_MEC_0,30_1 - Inspeção realizada nas rodas - Instalar parafuso allen do cubo de roda traseiro L/D , esta sem o parafuso 8129573_02
+";8129573;02
+151943286;"A_VZ_P_MEC_0,30_1 - Inspeção realizada no sistema hidraulico - instalar mangueira de coleta de oleo da VCR traseira, esta sem e caindo oleo 8150018_01 8109908_01
+";8150018;01
+151943286;"A_VZ_P_MEC_0,30_1 - Inspeção realizada no sistema hidraulico - instalar mangueira de coleta de oleo da VCR traseira, esta sem e caindo oleo 8150018_01 8109908_01
+";8109908;01
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8144970;1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8144881;1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8144954;1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8144882;2
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8144940;1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8149579;1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8149616;1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8149617;1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8149822;1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
 ";8122265;1
-152558709;"A_VZ_MEC_1_3,00 - Inspeção realizada na transmissão, trocar retentor do eixo cardam de acionamento do diferencial dianteiro, está com vazamento.8122265_1; 8150037_2; 8150036_1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8132640;1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8107553;1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
 ";8150037;2
-152558709;"A_VZ_MEC_1_3,00 - Inspeção realizada na transmissão, trocar retentor do eixo cardam de acionamento do diferencial dianteiro, está com vazamento.8122265_1; 8150037_2; 8150036_1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8152595;1
+152547558;"A_VZ_P_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação 8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1; 8150036_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
 ";8150036;1
+152547568;"A_VZ_P_MEC_1_1,00 - Inspeção realizada no eixo dianteiro, trocar cilindro de direção L/E, está com vazamento.3011407_1.
+";3011407;1
+151871106;"A_OT_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal da barra de direção L/E , está com folga 8175002_1; 8150490_2; 8177726_1
+";8175002;1
+151871106;"A_OT_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal da barra de direção L/E , está com folga 8175002_1; 8150490_2; 8177726_1
+";8150490;2
+151871106;"A_OT_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal da barra de direção L/E , está com folga 8175002_1; 8150490_2; 8177726_1
+";8177726;1
+151897184;"M_MT_P_MEC_0,20_1 - Inspeção realizada no sistema admissao - trocar mangote superior da entrada na carcaça do purificador de ar externo L/E, esta danificada 8142783_01 8149800_02
+";8142783;01
+151897184;"M_MT_P_MEC_0,20_1 - Inspeção realizada no sistema admissao - trocar mangote superior da entrada na carcaça do purificador de ar externo L/E, esta danificada 8142783_01 8149800_02
+";8149800;02
+151897190;"A_VZ_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - trocar capa de vedação das VCR II traseira, a atual esta quebrada e acumulando terra nos engate 8138683_01
+";8138683;01
+151897192;"M_OT_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - trocar mangueira de pressão do acionamento da ventoinha L/E do motor, manguera sai da vavula de acionamento do varicool L/E do motor, esta ressecada 8157688_01  
+";8157688;01
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8150036;01
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8144970;1
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8144881;1
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8144954;1
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8144882;2
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8144940;1
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8149579;1
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8149616;1
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8149617;1
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8149822;1
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8122265;1
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8132640;1
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8107553;1
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8150037;2
+151954638;"M_TR_P_MEC_6,00_2 - Inspeção realizada no eixo dianteiro - Trocar vedação e luvas do eixo de entrada, eixo de entrada da tração do diferencial dianteiro esta com vazamento devido falta de lubrificação  8150036_01   8144970_1; 8144881_1; 8144954_1; 8144882_2; 8144940_1; 8149579_1; 8149616_1; 8149617_1; 8149822_1; 8122265_1; 8132640_1; 8107553_1; 8150037_2; 8152595_1 eixo NECESSARIO RECOLHER O TRATOR POIS DEVE SER RETIRADO O DIFERENCIAL
+";8152595;1
+151954739;"A_MT_P_MEC_2,00_01 - Inspeção realizada sistema de motor diesel. Trocar correia do compressor de ar, Correia do compressor de ar danificada.  8137310_01
+";8137310;01
+151968214;"M_OT_P_MEC_1,00_1 - Inspeção realizada no sistema de escape - trocar cano curva do silencioso ( escapamento ), esta trincado e furado e foi soldado 8146672_01 
+";8146672;01
+151968232;"A_OT_P_MEC_0,30_1 - Inspeção realizada na barra de tração - Instalar parafuso na barra de tração, parafuso vai aonde fica a placa de ajuste do tirante no meio da barra e esta faltando 8158991_01
+";8158991;01
+151972651;"A_TR_P_MEC_0,20_1 - Inspeção realizada na TDP - Instalar proteção no eixo da tdp traseira, esta sem 8151056_01 
+";8151056;01
+152547564;"A_OT_P_MEC_1_1,00 Inspeção realizada na barra hidráulica, Colocar as cunhas dos batedores. 8066639_2,8149806_2,8139653_2,8139629_2.
+";8066639;2
+152547564;"A_OT_P_MEC_1_1,00 Inspeção realizada na barra hidráulica, Colocar as cunhas dos batedores. 8066639_2,8149806_2,8139653_2,8139629_2.
+";8149806;2
+152547564;"A_OT_P_MEC_1_1,00 Inspeção realizada na barra hidráulica, Colocar as cunhas dos batedores. 8066639_2,8149806_2,8139653_2,8139629_2.
+";8139653;2
+152547564;"A_OT_P_MEC_1_1,00 Inspeção realizada na barra hidráulica, Colocar as cunhas dos batedores. 8066639_2,8149806_2,8139653_2,8139629_2.
+";8139629;2
+151864190;"A_OT_P_MEC_2,00_1 - Inspeção realizada no sistema direção - Trocar terminal da barra de direção L/D e L/E, esta com folga 8150480_02 8150490_04 8177726_02
+";8150480;02
+151864190;"A_OT_P_MEC_2,00_1 - Inspeção realizada no sistema direção - Trocar terminal da barra de direção L/D e L/E, esta com folga 8150480_02 8150490_04 8177726_02
+";8150490;04
+151864190;"A_OT_P_MEC_2,00_1 - Inspeção realizada no sistema direção - Trocar terminal da barra de direção L/D e L/E, esta com folga 8150480_02 8150490_04 8177726_02
+";8177726;02
+151971423;"A_TR_P_MEC_2,00_2 - Inspeção realizada no eixo dianteiro - Trocar rolamento do articulador L/D, esta com rolamento estourado 8141292_01 8141270_01 
+";8141292;01
+151971423;"A_TR_P_MEC_2,00_2 - Inspeção realizada no eixo dianteiro - Trocar rolamento do articulador L/D, esta com rolamento estourado 8141292_01 8141270_01 
+";8141270;01
+151994715;"A_OT_P_MEC_1,00_1 - Inspeção realizada na estrutura - instalar proteção inferior dos radiadores, sem sem pondendo pegar toco e danificar o radiador 8149625_01(P5) 8149612_04
+";8149625;01
+151994715;"A_OT_P_MEC_1,00_1 - Inspeção realizada na estrutura - instalar proteção inferior dos radiadores, sem sem pondendo pegar toco e danificar o radiador 8149625_01(P5) 8149612_04
+";8149612;04
+152547560;"M_OT_P_MEC_1,00_1 - Inspeção realizada no sistema hidraulico - trocar mangueira de pressão do acionamento da ventoinha L/E do motor, manguera sai da vavula de acionamento do varicool L/E do motor, esta ressecada 8157688_01 
+";8157688;01
+152547561;"A_OT_P_MEC_1_1,00  Inspeção realizada no sistema da barra hidráulica.Colocar as cunhas dos batedores. 8066639_2,8149806_2,8139653_2,8139629_2.
+";8066639;2
+152547561;"A_OT_P_MEC_1_1,00  Inspeção realizada no sistema da barra hidráulica.Colocar as cunhas dos batedores. 8066639_2,8149806_2,8139653_2,8139629_2.
+";8149806;2
+152547561;"A_OT_P_MEC_1_1,00  Inspeção realizada no sistema da barra hidráulica.Colocar as cunhas dos batedores. 8066639_2,8149806_2,8139653_2,8139629_2.
+";8139653;2
+152547561;"A_OT_P_MEC_1_1,00  Inspeção realizada no sistema da barra hidráulica.Colocar as cunhas dos batedores. 8066639_2,8149806_2,8139653_2,8139629_2.
+";8139629;2
+152547565;"A_VZ_P_MEC_1_1,00 - Inspeção realizada no eixo dianteiro, trocar cilindro de direção L/E, está com vazamento crítico,.3011407_1. 
+";3011407;1
+151894310;"M_OT_P_ELE_2,00_1 - Inspeção realizado no sistema elétrico. Trocar farol dianteiro L/D  e L/E,  está trincado a lente e baixa luminosidade.   8136258_1. 8139232_1  
+";8136258;1
+151894310;"M_OT_P_ELE_2,00_1 - Inspeção realizado no sistema elétrico. Trocar farol dianteiro L/D  e L/E,  está trincado a lente e baixa luminosidade.   8136258_1. 8139232_1  
+";8139232;1
+151894738;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema de direção, trocar pino e rotulas dos cilindros de direção L/D e L/E, esta com folga . 8131458_2  (P5)8019770_2(P5) 8141370_2 (P5) 6010584_4 8032784_2 (P5) 8005198_4   8044744_2  8109733_4 (P5)
+";8131458;2
+151894738;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema de direção, trocar pino e rotulas dos cilindros de direção L/D e L/E, esta com folga . 8131458_2  (P5)8019770_2(P5) 8141370_2 (P5) 6010584_4 8032784_2 (P5) 8005198_4   8044744_2  8109733_4 (P5)
+";8019770;2
+151894738;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema de direção, trocar pino e rotulas dos cilindros de direção L/D e L/E, esta com folga . 8131458_2  (P5)8019770_2(P5) 8141370_2 (P5) 6010584_4 8032784_2 (P5) 8005198_4   8044744_2  8109733_4 (P5)
+";8141370;2
+151894738;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema de direção, trocar pino e rotulas dos cilindros de direção L/D e L/E, esta com folga . 8131458_2  (P5)8019770_2(P5) 8141370_2 (P5) 6010584_4 8032784_2 (P5) 8005198_4   8044744_2  8109733_4 (P5)
+";6010584;4
+151894738;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema de direção, trocar pino e rotulas dos cilindros de direção L/D e L/E, esta com folga . 8131458_2  (P5)8019770_2(P5) 8141370_2 (P5) 6010584_4 8032784_2 (P5) 8005198_4   8044744_2  8109733_4 (P5)
+";8032784;2
+151894738;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema de direção, trocar pino e rotulas dos cilindros de direção L/D e L/E, esta com folga . 8131458_2  (P5)8019770_2(P5) 8141370_2 (P5) 6010584_4 8032784_2 (P5) 8005198_4   8044744_2  8109733_4 (P5)
+";8005198;4
+151894738;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema de direção, trocar pino e rotulas dos cilindros de direção L/D e L/E, esta com folga . 8131458_2  (P5)8019770_2(P5) 8141370_2 (P5) 6010584_4 8032784_2 (P5) 8005198_4   8044744_2  8109733_4 (P5)
+";8044744;2
+151894738;"M_OT_P_MEC_2,00_2 - Inspeção realizada no sistema de direção, trocar pino e rotulas dos cilindros de direção L/D e L/E, esta com folga . 8131458_2  (P5)8019770_2(P5) 8141370_2 (P5) 6010584_4 8032784_2 (P5) 8005198_4   8044744_2  8109733_4 (P5)
+";8109733;4
+151926408;"A_MT_P_MEC_0,30_1 - Inspeção realizada no sistema admissao - Instalar vedação de proteção da mangueira do intercooler L/E do motor diesel, esta sem e esfregando a mangueira proximo a entrada do radiador 8189971_01
+";8189971;01
+151954767;"A_OT_P_MEC_0,10_1 - Inspeção realizada no sistema eletrico. trocar tampa da bateria, esta quebrada a tampa.       8178787_1       Material disponível na sala de Aprovisionamento
+";8178787;1
+151997356;"A_MT_P_MEC_1,00_1,00- Inspeção realizada no sistema de motor. Trocar tensor do motor,esta começando estourar.       8129892_1  Material disponível na sala de Aprovisionamento
+";8129892;1
+151997363;"A_TR_P_MEC_2,00_2,00 - Inspeção realizada no sistema de transmissão. Trocar reparo da carcaça do filtro de transmissão. Esta vazando. NECESSARIO ESGOTAR O OLEO DA TRANSMISSÃO.        8140307_2   8125593_1     
+";8140307;2
+151997363;"A_TR_P_MEC_2,00_2,00 - Inspeção realizada no sistema de transmissão. Trocar reparo da carcaça do filtro de transmissão. Esta vazando. NECESSARIO ESGOTAR O OLEO DA TRANSMISSÃO.        8140307_2   8125593_1     
+";8125593;1
+151997378;"A_MT_P_MEC_1,00_1,00 - Inspeção realizada no sistema de motor. Trocar vareta do nivel de oleo. esta vazando/ sem ação na vedação.            8129891_1    Material disponível na sala de Aprovisionamento
+
+";8129891;1
+151999246;"A_SS_P_MEC_1_2,00  Inspeção realizada no sistema plataforma.  Trocar abraçadeira do guarda corpo L/E, a mesma quebrada. 8088632_02 8089023_02;  8114877_08;   8119030_08
+";8088632;02
+151999246;"A_SS_P_MEC_1_2,00  Inspeção realizada no sistema plataforma.  Trocar abraçadeira do guarda corpo L/E, a mesma quebrada. 8088632_02 8089023_02;  8114877_08;   8119030_08
+";8089023;02
+151999246;"A_SS_P_MEC_1_2,00  Inspeção realizada no sistema plataforma.  Trocar abraçadeira do guarda corpo L/E, a mesma quebrada. 8088632_02 8089023_02;  8114877_08;   8119030_08
+";8114877;08
+151999246;"A_SS_P_MEC_1_2,00  Inspeção realizada no sistema plataforma.  Trocar abraçadeira do guarda corpo L/E, a mesma quebrada. 8088632_02 8089023_02;  8114877_08;   8119030_08
+";8119030;08
+151999254;"A_MT_P_MEC_0,30_1 - Inspeção realizada no sistema de admissão, trocar isolador de atrito do tubo de admissão, está sem e ocasionando o atrito do tubo de admissão ao chassi, risco de perfurar o tubo e contaminar o motor diesel por sílica 8137648_1 
+";8137648;1
+152552395;"A_OT_P_MEC_0,30_2 - Inspeção realizada no sistema do elevador, trocar batedor do elevador, estão gastos.  8065112_2     6010369_4         6001446_4
+";8065112;2
+152552395;"A_OT_P_MEC_0,30_2 - Inspeção realizada no sistema do elevador, trocar batedor do elevador, estão gastos.  8065112_2     6010369_4         6001446_4
+";6010369;4
+152552395;"A_OT_P_MEC_0,30_2 - Inspeção realizada no sistema do elevador, trocar batedor do elevador, estão gastos.  8065112_2     6010369_4         6001446_4
+";6001446;4
+152558952;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";8005804;02
+152558952;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";8033137;04
+152558952;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";8049785;01
+152558952;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";8049783;01
+152558952;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";8004735;01
+152558952;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";8049150;04
+152558952;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";8011479;03
+152558952;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";8079120;02
+152558952;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";8049788;02
+152558952;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";8091037;02
+152558952;"A_SS_P_MEC_2_2, - Inspeção realizada no sistema mecanismo do giro. Trocar embuchamento completo.  8005804_02  8033137_04  8049785_01  8049783_01  8004735_01  8049150_04  8011479_03  8079120_02  8049788_02  8091037_02  8058753_02  NECESSÁRIO CAMINHÇAO MUNK
+";8058753;02
+152559162;"A_SS_P_MEC_2_2,00 - Inspeção realizada no elevador, trocar bucha de desgaste e mancal de fixação do elevador a mesa do giro, está com folga LD 8058753_2; 8059086_2; 6010551   NECESSÁRIO CAMINHÃO MUNK PARA SUSPENDER O ELEVADOR     
+";8058753;2
+152559162;"A_SS_P_MEC_2_2,00 - Inspeção realizada no elevador, trocar bucha de desgaste e mancal de fixação do elevador a mesa do giro, está com folga LD 8058753_2; 8059086_2; 6010551   NECESSÁRIO CAMINHÃO MUNK PARA SUSPENDER O ELEVADOR     
+";8059086;2
+152552482;"A_VZ_P_MEC_2,00_1 - Inspeção realizada na transmissao - Corrigir vazamento de oleo em cima da transmissão, vazamento em cima da tampa da transmissao 8003172_01  8001586_03  8111887_05  8148910_01  8001556_01  8174320_01  8057361_01 
+";8003172;01
+152552482;"A_VZ_P_MEC_2,00_1 - Inspeção realizada na transmissao - Corrigir vazamento de oleo em cima da transmissão, vazamento em cima da tampa da transmissao 8003172_01  8001586_03  8111887_05  8148910_01  8001556_01  8174320_01  8057361_01 
+";8001586;03
+152552482;"A_VZ_P_MEC_2,00_1 - Inspeção realizada na transmissao - Corrigir vazamento de oleo em cima da transmissão, vazamento em cima da tampa da transmissao 8003172_01  8001586_03  8111887_05  8148910_01  8001556_01  8174320_01  8057361_01 
+";8111887;05
+152552482;"A_VZ_P_MEC_2,00_1 - Inspeção realizada na transmissao - Corrigir vazamento de oleo em cima da transmissão, vazamento em cima da tampa da transmissao 8003172_01  8001586_03  8111887_05  8148910_01  8001556_01  8174320_01  8057361_01 
+";8148910;01
+152552482;"A_VZ_P_MEC_2,00_1 - Inspeção realizada na transmissao - Corrigir vazamento de oleo em cima da transmissão, vazamento em cima da tampa da transmissao 8003172_01  8001586_03  8111887_05  8148910_01  8001556_01  8174320_01  8057361_01 
+";8001556;01
+152552482;"A_VZ_P_MEC_2,00_1 - Inspeção realizada na transmissao - Corrigir vazamento de oleo em cima da transmissão, vazamento em cima da tampa da transmissao 8003172_01  8001586_03  8111887_05  8148910_01  8001556_01  8174320_01  8057361_01 
+";8174320;01
+152552482;"A_VZ_P_MEC_2,00_1 - Inspeção realizada na transmissao - Corrigir vazamento de oleo em cima da transmissão, vazamento em cima da tampa da transmissao 8003172_01  8001586_03  8111887_05  8148910_01  8001556_01  8174320_01  8057361_01 
+";8057361;01
+152552159;"A_VZ_P_MEC_1,00_1 - Inspeção realizada no sistema direção . Trocar anilha de vedação da mangueira do orbitrol ( mangueira tipo banjo ) . Está vazando. 8133107_02   Material disponível na sala de Aprovisionamento
+";8133107;02
+151875033;"A_MT_P_1,00_1,00 - Inspeção realizada no sistema do motor. Trocar as mangueiras de alimentação de combustível. Estão ressecadas.8150822_1,8151542_1(P),8151541_1. (P5)Frente 261    GERADO RC DE 3 PARA JHONE SENDO 2 ITENS PARA ELE  E 1 PARA ESSA OS  MATERIAL  8150822    -   (MATERIAL NA SALA DE APROVISIONAMENTO)
+";8150822;1
+151875033;"A_MT_P_1,00_1,00 - Inspeção realizada no sistema do motor. Trocar as mangueiras de alimentação de combustível. Estão ressecadas.8150822_1,8151542_1(P),8151541_1. (P5)Frente 261    GERADO RC DE 3 PARA JHONE SENDO 2 ITENS PARA ELE  E 1 PARA ESSA OS  MATERIAL  8150822    -   (MATERIAL NA SALA DE APROVISIONAMENTO)
+";8151542;1
+151875033;"A_MT_P_1,00_1,00 - Inspeção realizada no sistema do motor. Trocar as mangueiras de alimentação de combustível. Estão ressecadas.8150822_1,8151542_1(P),8151541_1. (P5)Frente 261    GERADO RC DE 3 PARA JHONE SENDO 2 ITENS PARA ELE  E 1 PARA ESSA OS  MATERIAL  8150822    -   (MATERIAL NA SALA DE APROVISIONAMENTO)
+";8151541;1
+151979642;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar a cavilha superior LD ( que possui o sensor ), está sem o condutor de lubrificação  8145141_1; 8162309_1; 8109845_1; 8167849_1; 8150941_1; 8185733_1; 8109844_1
+";8145141;1
+151979642;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar a cavilha superior LD ( que possui o sensor ), está sem o condutor de lubrificação  8145141_1; 8162309_1; 8109845_1; 8167849_1; 8150941_1; 8185733_1; 8109844_1
+";8162309;1
+151979642;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar a cavilha superior LD ( que possui o sensor ), está sem o condutor de lubrificação  8145141_1; 8162309_1; 8109845_1; 8167849_1; 8150941_1; 8185733_1; 8109844_1
+";8109845;1
+151979642;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar a cavilha superior LD ( que possui o sensor ), está sem o condutor de lubrificação  8145141_1; 8162309_1; 8109845_1; 8167849_1; 8150941_1; 8185733_1; 8109844_1
+";8167849;1
+151979642;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar a cavilha superior LD ( que possui o sensor ), está sem o condutor de lubrificação  8145141_1; 8162309_1; 8109845_1; 8167849_1; 8150941_1; 8185733_1; 8109844_1
+";8150941;1
+151979642;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar a cavilha superior LD ( que possui o sensor ), está sem o condutor de lubrificação  8145141_1; 8162309_1; 8109845_1; 8167849_1; 8150941_1; 8185733_1; 8109844_1
+";8185733;1
+151979642;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar a cavilha superior LD ( que possui o sensor ), está sem o condutor de lubrificação  8145141_1; 8162309_1; 8109845_1; 8167849_1; 8150941_1; 8185733_1; 8109844_1
+";8109844;1
+152552478;"A_MT_P_MEC_1,00_1 - Inspeção realizada no sistema de motor. Trocar tensor de correia do motor, esta folgado.          8129892_1
+";8129892;1
+152552484;"A_VZ_P_2,00_2 - Inspeção realizado no sistema hidraulico. Comando hidraulico está vazando no comando. Trocar reparo do comando do hidraulico traseiro.  8037627_1.   8130009_03  
+";8037627;1
+152552484;"A_VZ_P_2,00_2 - Inspeção realizado no sistema hidraulico. Comando hidraulico está vazando no comando. Trocar reparo do comando do hidraulico traseiro.  8037627_1.   8130009_03  
+";8130009;03
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8140476;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8140475;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8162699;9
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8138354;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137622;2
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137623;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137624;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137066;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137625;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8144550;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137626;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137090;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137627;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137607;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137607;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137628;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8110861;8
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137610;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137629;2
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137608;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137630;1
+152558937;"A_OT_P_MEC_2_6,00 - Inspeção realizada na estrutura, trocar a grade do capô, está quebrada. 8140476_1; 8140475_1; 8162699_9; 8138354_1; 8137622_2; 8137623_1; 8137624_1; 8137066_1; 8137625_1; 8144550_1; 8137626_1; 8137090_1; 8137627_1; 8137607_1; 8137607_1; 8137628_1; 8110861_8; 8137610_1; 8137629_2; 8137608_1; 8137630_1; 8137609_1
+";8137609;1

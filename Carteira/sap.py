@@ -26,7 +26,7 @@ def inserir_colunas(descricao, os_value):
         quantidades.append(codigo[8:])  # Extrai a quantidade após o underscore
 
 # Nomes das colunas no CSV
-coluna_descricao = "Descrição da ordem"  # Substitua pelo nome correto da coluna de descrição
+coluna_descricao = "Descrição da O.S"  # Substitua pelo nome correto da coluna de descrição
 coluna_os = "O.S"  # Substitua pelo nome correto da coluna O.S
 
 # Iterar sobre as linhas do DataFrame e extrair os dados

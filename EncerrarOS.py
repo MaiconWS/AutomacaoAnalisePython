@@ -2,11 +2,10 @@ import pyautogui as gui
 import time
 from datetime import datetime
 
-repeticoes = int(input('Digite a quantidade de O.S: '))
+#repeticoes = int(input('Digite a quantidade de O.S: '))
 data_atual = datetime.now().strftime('%d/%m/%Y')
 
-for _ in range(repeticoes):  
-              
+for _ in range(20):           
     time.sleep(1)
     
     gui.press('down')
@@ -60,4 +59,4 @@ for _ in range(repeticoes):
     gui.click(x=205, y=165)
     time.sleep(1)
     
-    gui.hotkey('alt', 'tab')
+    gui.hotkey('alt', 'tab')    
