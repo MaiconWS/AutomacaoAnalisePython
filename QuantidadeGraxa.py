@@ -33,5 +33,7 @@ elif pergunta == "aditivo" :
     largura = 0.67
     altura = float(input("Digite a altura medida no reservatorio => "))
     volume = (comprimento * largura * (altura/100))*1000
+    #conta para correção pois as bordas do tanque são arredondadas
+    litros = (2.47 * volume) / 3.41
     
-    print(f"Ainda restam {volume:.2f}L de aditivo.")
+    print(f"Ainda restam {litros:.2f}L de aditivo.")
