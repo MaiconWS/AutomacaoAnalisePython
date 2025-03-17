@@ -10,7 +10,7 @@ pdf_directory = "ORC_FJ"
 pdf_files = [f for f in os.listdir(pdf_directory) if f.endswith(".pdf")]
 
 # Nome do arquivo CSV (salvo no mesmo local do código)
-csv_file = os.path.join(os.getcwd(), "dados_extraidos.csv")
+csv_file = os.path.join(os.getcwd(), "ORC_FJ/dados_extraidos.csv")
 
 # Expressões regulares para capturar os valores
 patterns = {
