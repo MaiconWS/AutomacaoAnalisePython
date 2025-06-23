@@ -4,13 +4,13 @@ import os
 from PyPDF2 import PdfReader
 
 # Diretório contendo os PDFs
-pdf_directory = "ORC_FJ"
+pdf_directory = r"C:\Users\cs319800\Desktop\AutomaçãoPython\AutomacaoAnalisePython\ORC_JF"
 
 # Lista de arquivos PDF no diretório
 pdf_files = [f for f in os.listdir(pdf_directory) if f.endswith(".pdf")]
 
 # Nome do arquivo CSV (salvo no mesmo local do código)
-csv_file = os.path.join(os.getcwd(), "ORC_FJ/dados_extraidos.csv")
+csv_file = os.path.join(os.getcwd(), "ORC_JF/dados_extraidos.csv")
 
 # Expressões regulares para capturar os valores
 patterns = {

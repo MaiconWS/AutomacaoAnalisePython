@@ -27,8 +27,8 @@ def resolucao_1(tela):
         time.sleep(0.5)
         gui.click(x=665, y=251)
         time.sleep(0.5)
-        #gui.click(x=1490, y=443)
-        #time.sleep(1)
+        gui.click(x=1490, y=443)
+        time.sleep(1)
                 
         #Copia frota na planilha
         gui.hotkey('ctrl','c')
@@ -61,7 +61,7 @@ def resolucao_1(tela):
         #Ponto de manutenção
         gui.click(x=296, y=323)
         time.sleep(0.5)
-        gui.write('11001')
+        gui.write('11001')  
         time.sleep(0.5)
         #box
         gui.click(x=729, y=323)
