@@ -10,14 +10,14 @@ n = 50
 while True:
     try:
         # Procura a imagem com tolerância (requer Pillow)
-        img = pyautogui.locateCenterOnScreen('ok.png', confidence=0.6)
+        apontamento = pyautogui.locateCenterOnScreen('Captura\img\erro-02.png', confidence=0.7)
     except pyautogui.ImageNotFoundException:
-        img = None
+        apontamento = None
 
-    if img is not None:
-        pyautogui.moveTo(img, duration=0.2)
-        pyautogui.doubleClick()
-        print(f"Imagem localizada na posição: {img}")
+    if apontamento is not None:
+        pyautogui.moveTo(apontamento, duration=0.2)
+        pyautogui.click()
+        print(f"Imagem localizada na posição: {apontamento}")
         break
 
     if k >= n:
