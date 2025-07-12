@@ -29,7 +29,8 @@ def monitorar_erro():
             ok = gui.locateCenterOnScreen('Captura\img\ok.png', confidence=0.7)
             gui.click(ok)
             time.sleep(0.5)
-            gui.press("esc")
+            cancelar = gui.locateCenterOnScreen('Captura\img\erro-03.png', confidence=0.7)
+            gui.click(cancelar)
             time.sleep(0.5)
             gui.click(x=1348, y=165)
             time.sleep(0.5)
@@ -40,8 +41,6 @@ def monitorar_erro():
 def bloco_nao_apontadas():
     """Executa o BLOCO PARA O.S NÃO APONTADAS"""
     print("🔄 Executando BLOCO PARA O.S NÃO APONTADAS")
-    gui.press('esc')
-    gui.click(x=1349, y=162)
     gui.click(x=1304, y=634)
     time.sleep(1)
     gui.click(x=158, y=244)
