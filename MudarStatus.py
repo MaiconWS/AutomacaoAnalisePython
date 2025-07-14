@@ -44,12 +44,15 @@ for _ in range(repeticoes):
     time.sleep(1)
     
     gui.press('backspace')
-    time.sleep(0.5)
+    time.sleep(1)
     
-    gui.press('V')
-    time.sleep(0.5)
+    gui.press('a')
+    time.sleep(1.5)
     
     gui.click(x=117, y=162)
+    time.sleep(1)
+    
+    gui.click(x=651, y=460)
     time.sleep(1)
     
     gui.hotkey('alt', 'tab')
