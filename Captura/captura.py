@@ -1,22 +1,29 @@
 import pyautogui
-import json
 import time
 
-coordenadas = []
+time.sleep(2)  # espera a tela carregar
 
-print("Clique nos pontos que deseja salvar. Pressione 'q' para sair.")
+# Variáveis para controle da condição de parada
+k = 0
+n = 50
 
 while True:
     try:
-        x, y = pyautogui.position()  # Pega posição atual do mouse
-        print(f"Coordenada salva: ({x}, {y})")
-        coordenadas.append((x, y))
-        time.sleep(2)  # Pequeno delay para evitar capturas contínuas
-    except KeyboardInterrupt:
-        break  # Sai do loop ao pressionar Ctrl+C
+        # Procura a imagem com tolerância (requer Pillow)
+        apontamento = pyautogui.locateCenterOnScreen('Captura\img\erro-02.png', confidence=0.7)
+    except pyautogui.ImageNotFoundException:
+        apontamento = None
 
-# Salva as coordenadas em um arquivo JSON
-with open("Captura/coordenadas.json", "w") as arquivo:
-    json.dump(coordenadas, arquivo)
+    if apontamento is not None:
+        pyautogui.moveTo(apontamento, duration=0.2)
+        pyautogui.click()
+        print(f"Imagem localizada na posição: {apontamento}")
+        break
 
-print("Coordenadas salvas com sucesso!")
+    if k >= n:
+        print("Imagem não encontrada na tela após 50 tentativas.")
+        break
+
+    print(f"Tentativa {k + 1}...")
+    k += 1
+    time.sleep(0.5)  # dá mais tempo entre tentativas
