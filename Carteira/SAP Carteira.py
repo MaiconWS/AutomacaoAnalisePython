@@ -5,7 +5,7 @@ import re
 nomePlanilha = input("Digite o nome da planilha (sem '.csv'): ").strip()
 
 # Monta o nome do arquivo com extensão
-arquivo_csv = f"{nomePlanilha}.csv"
+arquivo_csv = f"Carteira/{nomePlanilha}.csv"
 
 try:
     # Tenta carregar o arquivo CSV
@@ -39,6 +39,7 @@ def inserir_colunas(descricao, os_value):
 # Nomes das colunas no CSV
 coluna_descricao = "Descrição da O.S"
 coluna_os = "O.S"
+
 
 # Verifica se as colunas existem
 if coluna_descricao not in df.columns or coluna_os not in df.columns:
