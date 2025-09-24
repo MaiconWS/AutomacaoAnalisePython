@@ -15,93 +15,28 @@ def localizar_imagem(caminho, confidence=0.7):
         if posicao:
             print(f"📸 Imagem localizada: {caminho} na posição {posicao}")
         return posicao
-    except Exception:
+    except gui.ImageNotFoundException as e:
+        print(f"❌ Imagem não encontrada: {caminho} (highest confidence = {getattr(e, 'confidence', 'N/A')})")
         return None
 
 def monitorar_erro():
     """Thread que monitora a tela constantemente"""
     print("👀 Monitoramento iniciado...")
-    while True:
-        erro = localizar_imagem(r'Captura\img\erro-02.png', confidence=0.7)
+    while not erro_detectado.is_set():
+        erro = localizar_imagem('Captura\img\erro-02.png', confidence=0.7)
         
         if erro:
-            ok = localizar_imagem(r'Captura\img\ok.png', confidence=0.7)
-            if ok:
-                gui.click(ok)
-                time.sleep(0.5)
-
-            cancelar = localizar_imagem(r'Captura\img\erro-03.png', confidence=0.7)
-            if cancelar:
-                gui.click(cancelar)
-                time.sleep(0.5)
-
+            ok = gui.locateCenterOnScreen('Captura\img\ok.png', confidence=0.7)
+            gui.click(ok)
+            time.sleep(0.5)
+            cancelar = gui.locateCenterOnScreen('Captura\img\erro-03.png', confidence=0.7)
+            gui.click(cancelar)
+            time.sleep(0.5)
             gui.click(x=1348, y=165)
             time.sleep(0.5)
-
             print(f"⚠️ Erro detectado na posição: {erro}")
-            erro_detectado.set()   # Apenas sinaliza o erro
-
-        time.sleep(0.5)  # Ajuste da frequência
-
-def apontamento(tentativas=6, delay=0.5, confidence=0.7, region=None):
-    """
-    Verifica se apareceu o erro erro04.png e, se sim,
-    corrige o código no campo. 
-    Retorna True se aplicou correção, False caso contrário.
-    """
-    for tentativa in range(1, tentativas + 1):
-        erro = localizar_imagem(r'Captura\img\erro04.png', confidence=confidence)
-        ok = localizar_imagem(r'Captura\img\ok.png', confidence=confidence)
-        if erro:
-            print(f"⚠️ [apontamento] erro detectado (tentativa {tentativa}) -> corrigindo...")
-
-            # 1) Clica no campo onde está o erro (imagem encontrada)
-            gui.click(ok)   # agora usa a posição detectada!
-            time.sleep(0.5)
-
-            # 2) Seleciona tudo e apaga
-            gui.click(x=155, y=334)
-            time.sleep(0.5)
-            gui.doubleClick(x=155, y=334)
-            time.sleep(0.2)
-            gui.press('backspace')
-            time.sleep(0.3)
-
-            # 3) Digita o código correto
-            gui.write('46999999')
-            time.sleep(0.3)
-            gui.press('enter')
-            time.sleep(0.5)
-
-            # 4) Continua preenchendo os outros campos
-
-            gui.click(x=374, y=335)  # volta para o início
-            time.sleep(0.5)
-            gui.write('200')
-            time.sleep(0.5)
-            gui.click(x=1061, y=333)
-            time.sleep(0.5)
-            gui.write('1')
-            time.sleep(0.5)
-            gui.click(x=1172, y=335)
-            time.sleep(0.5)
-            gui.write('1')
-            
-            time.sleep(0.5)
-            gui.click(x=155, y=249)
-            
-            gui.click(x=1318, y=244)  # volta para o início
-            time.sleep(0.5)
-
-            print("✅ Código corrigido para 46999999")
-            return True
-
-        # espera e tenta novamente
-        time.sleep(delay)
-
-    print("✅ [apontamento] nenhum erro detectado após tentativas")
-    return False
-
+            erro_detectado.set()
+        time.sleep(0.5)  # Ajuste a frequência de checagem se necessário
 
 def bloco_nao_apontadas():
     """Executa o BLOCO PARA O.S NÃO APONTADAS"""
@@ -117,33 +52,24 @@ def bloco_nao_apontadas():
     gui.press('tab')
     gui.click(x=196, y=250)
     time.sleep(1)
-    gui.write('46999998')
-    time.sleep(1)
-    
-    gui.click(x=372, y=334)
-    time.sleep(0.4)
-    gui.write('200')
-    time.sleep(1)
-    if apontamento(tentativas=6, delay=0.4, confidence=0.7):
-        time.sleep(0.4)
-    gui.click(x=1062, y=329)
-    time.sleep(1)
-    
-    gui.click(x=1075, y=338)
-    time.sleep(1)
-    gui.write(data_atual)
-    time.sleep(1)
-    gui.click(x=1118, y=331)
-    time.sleep(1)
-    gui.write('1')
-    time.sleep(1)
-    gui.click(x=1264, y=326)
-    time.sleep(1)
-    gui.write('2')
-    time.sleep(1)
-    gui.click(x=157, y=246)
-    time.sleep(1)
-    
+
+    gui.press('tab')
+    gui.click(x=341, y=332)
+    time.sleep(0.5)
+
+    gui.press('1')
+    gui.press('tab')
+    gui.click(x=1107, y=335)
+    time.sleep(0.5)
+    gui.press('1')
+    gui.press('tab')
+    gui.click(x=1233, y=334)
+    time.sleep(0.5)
+    gui.press('1')
+
+    gui.click(x=158, y=244)
+    time.sleep(1.5)
+
     gui.click(x=1322, y=250)
     time.sleep(1)
 

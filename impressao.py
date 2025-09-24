@@ -5,7 +5,7 @@ import time
 gui.hotkey('alt', 'tab')
 gui.click(x=1502, y=118)
 time.sleep(1)
-for _ in range(11):
+for _ in range(23):
     gui.hotkey('ctrl', 'c')
     time.sleep(1)
     gui.click(x=309, y=181)
@@ -22,7 +22,7 @@ for _ in range(11):
     time.sleep(1)
     gui.click(x=338, y=225)
     time.sleep(1)
-    gui.write('BA_OFIC_R08')
+    gui.write('BA_OFIC_R02')
     time.sleep(1)
     gui.click(x=50, y=469)
     time.sleep(1)

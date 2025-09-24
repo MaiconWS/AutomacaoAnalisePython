@@ -29,7 +29,7 @@ regex1 = r"\b\d+_\d{7}\b"
 
 def inserir_colunas(descricao, os_value):
     codigos_encontrados = re.findall(regex, descricao)
-    codigos_encontrados += re.findall(regex1, descricao)
+#    codigos_encontrados += re.findall(regex1, descricao)
     for codigo in codigos_encontrados:
         os.append(os_value)
         descricoes.append(descricao)

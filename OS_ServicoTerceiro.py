@@ -16,6 +16,12 @@ def resolucao_1(tela):
         gui.click(x=437, y=161)
         time.sleep(3)
         #Classe manutenção
+        gui.doubleClick(x=434, y=226)
+        time.sleep(1)
+        gui.press('delete')
+        gui.press('backspace')
+        time.sleep(1)
+        gui.write('t')
         gui.click(x=819, y=225)
         time.sleep(0.5)
         gui.write('11')   
@@ -61,17 +67,23 @@ def resolucao_1(tela):
         #Ponto de manutenção
         gui.click(x=296, y=323)
         time.sleep(0.5)
-        gui.write('11001')  
+        gui.write('11017')  
         time.sleep(0.5)
         #box
         gui.click(x=729, y=323)
         time.sleep(0.5)
-        gui.write('104')
+        gui.write('525')
         time.sleep(0.5)
+        
+        gui.click(x=316, y=344)
+        time.sleep(0.5)
+        gui.write('6302') #COHYBRA
+        time.sleep(0.5)
+        
         #Descrição
         gui.click(x=424, y=446)
-        time.sleep(0.5)
-        gui.write('Eletrica - ')
+        #time.sleep(0.5)
+        #gui.write('Eletrica - ')
         time.sleep(0.5)
         gui.hotkey('alt','tab')
         #copica descrição na planilha
@@ -87,12 +99,39 @@ def resolucao_1(tela):
         gui.click(x=424, y=446)
         time.sleep(0.5)
         gui.hotkey('ctrl','v')
+        time.sleep(0.5)
+        
+        gui.click(x=238, y=570)
+        time.sleep(0.5)
+        gui.write('21')
+        time.sleep(0.5)
+        gui.click(x=360, y=570)
+        time.sleep(0.5)
+        gui.write('1700')
+        time.sleep(0.5)
+        gui.click(x=491, y=570)
+        time.sleep(0.5)
+        gui.write('1780')
+        gui.click(x=628, y=569)
+        time.sleep(0.5)
+        gui.write('1')
+        gui.click(x=792, y=569)
+        time.sleep(0.5)
+        gui.write('1')
+        gui.click(x=865, y=569)
+        time.sleep(0.5)
+        gui.write('1')
+        gui.click(x=972, y=569)
+        time.sleep(0.5)
+        gui.write('Serviço em terceiro')
+        
         gui.click(x=118, y=159)
         time.sleep(0.5)
                 
         gui.hotkey('alt','tab')
         gui.press('down')
         time.sleep(3)
+        
 
 #para resolução 1920x1080            
 def resolucao_2(tela):
@@ -149,12 +188,12 @@ def resolucao_2(tela):
         #box
         gui.click(x=947, y=413)
         time.sleep(0.5)
-        gui.write('102')
+        gui.write('104')
         time.sleep(0.5)
         #Descrição
         gui.click(x=412, y=533)
         time.sleep(0.5)
-        gui.write('Agregado - ')
+        gui.write('Eletrica - ')
         time.sleep(0.5)
         gui.hotkey('alt','tab')
         #copica descrição na planilha
