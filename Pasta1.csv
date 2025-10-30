@@ -1,0 +1,678 @@
+﻿O.S;;Código;Descrição;Código;Descrição;Código;Descrição;;;Código;Descrição;;Código;Descrição;Código;Descrição;Entrada;Saída Prevista;Saída;;Descrição da O.S
+156168243;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98370;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/05/2025 07:00;07/05/2025 07:00;;0;"A_SS_P_2,00_1,00 - Inspeção realizada no sistema de cabine. Trocar chave comutadora da partida,esta com uma paliativa.                                (Partida direta no botão.)    F-205         8142336_1         ENTREGAR PARA RAFAEL ELETRECISTA. CCT  MATERIAL DISPONIVEL SALA DE APROVISIONAMENTO MATERAIAL RETIRADO PARA TRATAR  SEMANA 32 .
+
+"
+156168298;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/05/2025 07:00;07/05/2025 07:00;;0;"A_OT_P_2,00_2,00 - Inspeção realizada no sistema de direção. Trocar bucha do tirante L/D, esta danificada.      8122223_2           (NECESSARIO RECOLHER O EQUIPAMENTO  OU RETIRAR A BARRA DE DIREÇÃO E TRAZER PARA OFICINA FIXA PARA REALIZAR A PRENSAGEM, CONFIRMAR COM O GESTOR DA FRENTE )      Material disponível na sala de Aprovisionamento     
+"
+165497765;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;02/06/2025 06:00;02/06/2025 07:00;;0;"A_OT_P_MEC_2,00_2,00 - Inspeção realizada no sistema de direção. Trocar coifa do 1° eixo direcional L/E e L/D está rasgada.              8176116_2  MATERIAL DISPONIVEL SALA DE APROVISIONAMENTO MATERIAL RETIRADO  JOW 
+"
+165497769;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;02/06/2025 06:00;02/06/2025 07:00;;0;"A_OT_P_0,15_1,00 - Inspeção realizada no sistema do arla. Trocar a tampa do tanque arla,esta vazando.         8174965_1     MATERIAL DISPONIVEL SALA DE APROVISIONAMENTO  MATERIAL RETIRADO JOW 
+"
+165498585;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98382;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;02/06/2025 06:00;02/06/2025 07:00;;0;"A_SS_P_2,00_1,00 - Inspeção realizada no sistema de cabine. Trocar chave comutadora da partida,esta com uma paliativa.                                (Partida direta no botão.)          8142336_1         ENTREGAR PARA RAFAEL ELETRECISTA. MATERIAL DISPONIVEL SALA DE APROVISIONAMENTO RETIRADO RAFAEL DOMINGUES 
+"
+165498598;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;02/06/2025 06:00;02/06/2025 07:00;;0;"A_MEC_1,00_1,00 - Inspeção realizada no sistema de cambio. 2ºmarcha e 6º não engata, NECESSARIO RECOLHER PARA OFICINA FIXA!!!
+"
+165498615;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;02/06/2025 06:00;02/06/2025 07:00;;0;"A_SS_P_2,00_1,00 - Inspeção realizada no sistema de cabine. Trocar chave comutadora da partida,esta com uma paliativa.                                (Partida direta no botão.)          8142336_1         ENTREGAR PARA RAFAEL ELETRECISTA. MATERIAL DISPONIVEL SALA DE APROVISIONAMENTO RETIRADO RAFAEL DOMINGUES 
+"
+165501359;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;09/06/2025 06:00;09/06/2025 07:00;;0;"A_MT_P_MEC_0,15_1,00 - Inspeção realizada no sistema de admissão. Instalar valvula da carcaça do filtro de ar (mamica), esta faltando.    8047093_1
+
+"
+165504921;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/06/2025 06:00;16/06/2025 07:00;;0;"A_SS_P_MEC_2,00_1,00 - Inspeção realizada no sistema de suspensão. Trocar ``bexigão de ar´´ do 3° eixo L/D, esta furado.    8174213_1     f-206
+"
+165505239;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;17/06/2025 06:00;17/06/2025 07:00;;0;"A_SS_P_MEC_1,00_1,00 - Inspeção realizada no sistema eletrico. Trocar alavanca do freio motor, esta danificada.       8123181_1      F-207                  ENTREGAR PARA GANSINHO ELETRECISTA!!!
+"
+165505241;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98366;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;17/06/2025 06:00;17/06/2025 07:00;;0;"A_SS_S_ELETR_1,00_1,00 - Inspeção realizada no sistema eletrico. Corrigir painel, marcador de combustivel não esta marcando.                             (JA FOI REALIZADA A TROCA DA BÓIA DO TANQUE POR UMA ORIGINAL E A PENDÊNCIA CONTINUA)                        F-205
+"
+165505780;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98388;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 06:01;;0;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no eixo traseiro, trocar retentor do pinhão do 2° diferrencial, está com vazamento 6012831	_1
+"
+165505783;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98422;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 06:01;;0;"A_SS_P_MEC_2,00_2 - Inspeção realizada no eixo dianteiro, trocar bucha dos braços da barra de estabilização do eixo dianteiro, está com fadiga 8122223_4; 8127170_2 (P5) Material disponível na sala de Aprovisionamento RETIRADO  KELLER
+"
+165505796;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98398;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 07:00;;0;"A_SS_P_MEC_1,00_1,00 - Inspeção realizada no sistema eletrico. Trocar tampa de bateria, esta quebrada.             8123166_1   F-205 MATERIAL  de  OS ENCERRADA  Material disponível na sala de aprovisionamento  
+"
+165505813;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 06:01;;0;"A_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL
+"
+165505814;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98392;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 06:01;;0;"A_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTALMaterial disponível na sala de aprovisionamento 
+"
+165505815;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98396;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 06:01;;0;"B_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL
+"
+165505887;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 06:01;;0;"A_OT_P_MEC -1,00_2 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4  
+
+"
+165505899;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98392;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 06:01;;0;"M_SS_P_MEC - 2,00_2 - Inspeção realizada no eixo direcional, trocar rolamento do articulador do 1° eixo direcional LE, está com folga no rolamento. 8177681_1Material disponível na sala de aprovisionamento 
+"
+165505956;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98370;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 07:00;;0;"A_OT_P_MEC_1,00_1,00 - Inspeção realizada no sistema de cabine. Trocar cilindro que ergue cabine, esta vazando pelo reparo.    8183885_1                    F-205
+"
+165505960;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98396;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção, está rasgada 8191518_2; 8191527_2; 8174974_2
+"
+165506005;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98422;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 06:01;;0;"A_OT_P_MEC -1,00_2 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4  Material disponivel na sala de aprovisionamento  RETIRADO LELLER
+
+"
+165506016;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 07:00;;0;"A_OT_P_MEC_1,00_1,00 - Inspeção realizada no sistema de suspensão. Instalar haste niveladora L/E, esta faltando.      8185854_1      F-205
+"
+165506021;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 06:01;;113,81;"A_OT_P_1,00_1,00 - Inspeção realizada no sistema de combustivel. Trocar tampa do tanque diesel, esta vazando pela vedação.       8174879_1 
+"
+165506064;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98406;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/06/2025 06:00;18/06/2025 06:01;;0;"M_OT_P_MEC_1_1,00 - Inspeção realizada no eixo dianteiro, trocar barra de direção pequena LE, está com terminal folgado. 8154448_1
+"
+165506329;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;20/06/2025 06:00;20/06/2025 06:01;;0;"A_SS_P_ELE_1_1,00 - Inspeção realizada no sistema eletrico, trocar chave de partida, está com defeito e está com paliativo com interruptor no painel 8142336_1 NÃO PROGRAMAR, DISPONIBILIZAR A PEÇA PARA O TÉCNICO RAFAEL DOMINGUES (PODRE)
+ Material disponível na sala de Aprovisionamento 
+"
+165506332;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98396;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;20/06/2025 06:00;20/06/2025 06:01;;0;"M_SS_P_MEC_1_1,,00 - Inspeção realizada no eixo dianteiro, trocar terminal de 90° LD do 1° eixo, está com folga 8153948_1
+"
+165506333;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;20/06/2025 06:00;20/06/2025 06:01;;0;"A_OT_P_1,00_1,00 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E e L/D.     8177610_4. USAR PARAFUSO DO CAMINHÃO OFICINA 
+"
+165508833;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;24/06/2025 06:00;24/06/2025 06:01;;0;"A_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL
+"
+165508837;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;24/06/2025 06:00;24/06/2025 06:01;;0;"M_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal 90° do conjunto de terminal de direção  do 1° eixo dianteiro LD, está com folga 8178943_1
+"
+165508841;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;24/06/2025 06:00;24/06/2025 06:01;;0;"M_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminais  90° da barra ( SUPERIOR CURTA LADO ESQUERDO ) de direção  do 1° eixo dianteiro LE, está com folga 8177862_1; 8178943
+"
+165508842;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;24/06/2025 06:00;24/06/2025 06:01;;0;"A_SS_P_MEC_1_1,00 - Inspeção realizada no eixo dianteiro, trocar conjunto de terminal de direção LD, está com folga 8153948_1
+"
+165508848;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;24/06/2025 06:00;24/06/2025 06:01;;0;"M_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminais  90° da barra ( SUPERIOR CURTA LADO ESQUERDO ) de direção  do 1° eixo dianteiro LE, está com folga 8177862_1; 8178943
+"
+165508850;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;24/06/2025 06:00;24/06/2025 06:01;;0;"M_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal 90° do conjunto de terminal de direção  do 1° eixo dianteiro LE, está com folga 8177862_1
+
+"
+165508856;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;24/06/2025 06:00;24/06/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD e suporte LD,  3° mola L/E e colocar algema do molejo  , estão com fadigas 8155513_4(P5); 8186852_6(P5); 8174985_1(P5); 8155449_4(P5); 8155450_4(P5)  8186758_1(P5); 8177610_2(P5); 8128986_4; 8129020_8(P5)
+"
+165509103;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;24/06/2025 06:00;24/06/2025 06:01;;0;"B_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL
+"
+165509111;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;24/06/2025 06:00;24/06/2025 06:01;;0;"M_SS_P_MEC - 2,00_2 - Inspeção realizada no eixo direcional, trocar rolamento do articulador do 1° eixo direcional LE, está com folga no rolamento. 8177681_1
+
+"
+165509117;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;24/06/2025 06:00;24/06/2025 06:01;;0;"M_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal 90° do conjunto de terminal de direção  do 1° eixo dianteiro LD, está com folga 8178943_1
+"
+165509448;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98368;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/06/2025 06:00;25/06/2025 06:01;;622,81;"A_SS_P_MEC_2_6,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 2° eixo traseiro, LE  está com lona de freio quebrada - 4_8113604, 100_6012109; 8130939_2(P5) NECESSÁRIO CALÇAR O EIXO, ENCAMINHAR MATERIAL PARA OFICINA FIXA REBITAR E DISPONIBILIZAR PARA EXECUÇÃO   Material disponível na sala de Aprovisionamento 
+"
+165509481;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98376;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/06/2025 06:00;25/06/2025 06:01;;0;"A_FR_P_MEC_2_2,00 - Inspeção realizada no sistema pneumático, trocar váuvula 4 vias, está com vazamento crítico de ar 8143849_1
+"
+165510803;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/06/2025 06:00;27/06/2025 06:01;;0;"M_SS_P_MEC_2_2,00 - Inspeção realizada no sistema de direção, trocar terminais 90° LD do 1° eixo, terminal 90° LD e LE da barra curta superior e terminal 90° LE da barra de direção do 2° eixo dianteiro, estão com folga 8177862_2; 8178943_2     frente 206
+"
+165510820;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/06/2025 06:00;27/06/2025 06:01;;0;"M_VZ_P_MEC_1_2,00 - Inspeção realizada no sistema de direção, trocar cilindro de direção, está com vazamento 8160039_1 frente 206
+"
+165510821;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/06/2025 06:00;27/06/2025 06:01;;0;"A_SS_P_MEC_1_1 - Inspeção realizada no eixo dianteiro, trocar terminal 90° LD, está com folga crítica 8178943 frente 206
+"
+165510853;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/06/2025 06:00;27/06/2025 06:01;;0;"A_OT_P_MEC -1,00_1 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4    Material disponivel na sala de aprovisionamento 
+"
+165510855;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/06/2025 06:00;27/06/2025 06:02;;0;"B_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL frente 206Material disponível na sala de aprovisionamento 
+"
+165510866;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/06/2025 06:00;27/06/2025 06:01;;0;"A_OT_P_MEC -1,00_1 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4  FRENTE 206
+"
+165510867;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/06/2025 06:00;27/06/2025 06:01;;0;"B_SS_P_MEC_1_1,00 - Inspeção realizada no eixo dianteiro, trocar terminal 90° LD da barra curta superior LD, está com folga 8178943_1
+"
+165510872;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/06/2025 06:00;27/06/2025 06:01;;0;"M_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos e molas LD e LE do 2° eixo dianteiro, estão com fadiga 8118288_6
+"
+165510873;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/06/2025 06:00;27/06/2025 06:01;;0;"A_OT_P_1,00_1,00 - Inspeção realizada no sistema de combustivel. Trocar tampa do tanque diesel, esta quebrada a capa.       8174879_1 
+"
+165510874;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/06/2025 06:00;27/06/2025 06:01;;0;"B_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL frente 206
+"
+165511008;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98376;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/06/2025 06:00;27/06/2025 06:01;;0;"A_MT_P_MEC_1_1,00 - Inspeção realizada sistema de motor. Colocar presilhas do filtro de ar e realizar pequeno reparo na tampa do purificador de ar. 8140020_6 6012285_1
+"
+165511230;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/06/2025 06:00;30/06/2025 06:01;;0;"A_OT_P_MEC -1,00_1 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4  
+"
+165511233;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/06/2025 06:00;30/06/2025 06:01;;0;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no implemento, trocar bomba hidráulica abaixo do tanque, está com vazamento crítico 8183373_1
+"
+165511234;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/06/2025 06:00;30/06/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos e molas LD do 2° eixo dianteiro, estão com fadigas 8155513_2; 8118288_3
+
+"
+165511237;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/06/2025 06:00;30/06/2025 06:01;;0;"M_SS_P_MEC_1_1,00 - Inspeção realizada no eixo dianteiro, trocar terminal 90° LE do 1° eixo, está com folga 8177862_1
+"
+165511238;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/06/2025 06:00;30/06/2025 06:01;;0;"A_FR_P_MEC_1_2,00 - Inspeção realizada no sistema pneumático, trocar válvula 4 vias e silenciador, está com vazamento 8184341_1; 8143849_1
+"
+165511241;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98414;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/06/2025 06:00;30/06/2025 06:01;;0;"B_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL frente 208
+
+"
+165511242;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98414;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/06/2025 06:00;30/06/2025 06:01;;0;"A_SS_S_MEC_1_1,,30 -  Inspeção realizadana estrutura, colocar kit multspuma, está sem. NECESSÁRIO SOLICITAR O SREVIÇO COM O PRESTADOR. PLANEJAMENTO, DIRECIONAR AOS GESTORES RESPONSÁVEIS
+"
+165511244;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98414;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/06/2025 06:00;30/06/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos e molas LE e suporte do jumelo do 2° eixo dianteiro, estão com fadigas  8118288_3; 8174985_1
+"
+165511252;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98368;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/06/2025 06:00;30/06/2025 06:01;;0;"A_SS_P_MEC_0,15_1 - Inspeção realizada na parte eletrica, colocar trava da chave geral, está faltando o bloqueio .8174203_1 frente 208
+ Material disponível na sala de AprovisionamentoMATERIAL ENTREGUE  KELLER 
+"
+165511753;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98414;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/06/2025 06:00;30/06/2025 06:01;;1.920,81;"A_VZ_P_MEC_1_1,00 - Inspeção realizada no sistema hidráulico, trocar respiro da tanque hidráulico do implemento, está com vazamento 8187831_1
+"
+165514845;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98366;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;05/07/2025 06:00;05/07/2027 06:01;;0;"A_SS_P_MEC_1_1,00 - Inspeção realizada na cabine, trocar borracha da escada de acesso a cabine LE, está rasgada 8125695_1; 8156736_1
+"
+165516029;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"B_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL frente 205
+
+"
+165516031;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_OT_P_MEC -1,00_1 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4  FRENTE 205
+"
+165516036;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98374;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_OT_P_1,00_1,00 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/D.     8177610_2. USAR PARAFUSO DO CAMINHÃO OFICINA 
+"
+165516041;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98374;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada na suspeção, trocar chapa do jumelo do 2° eixo direcional, está com desgaste 8155513_4  frente 205
+"
+165516055;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98398;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"M_SS_P_MEC_1_1,00 - Inspeção realizada no sistema de direção, trocar terminal 90° LD do 1° eixo, está com folga 8178943_1
+"
+165516070;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD e suporte LD , estão com fadigas 8155513_4; 8118288_6; 8174985_1(P5 MATERIAL DE  OS ENCERRADA; 8155449_4; 8155450_4
+
+"
+165516071;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_OT_P_MEC -1,00_1 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4  FRENTE 205
+"
+165516107;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"M_SS_P_MEC - 2,00_2 - Inspeção realizada no eixo direcional, trocar rolamento do articulador do 1° eixo direcional LE, está com folga no rolamento. 8177681_1
+"
+165516108;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_OT_P_1,00_1 - Inspeção realizada no sistema de ar pneumático, trocar valvula silenciador do filtro do sistema pneumático, está quebrado. 8184341_1 frente 205
+"
+165516138;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no sistema de direção, trocar cilindro de direção, está com vazamento 8160039_1
+"
+165516139;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_OT_P_1,00_1,00 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/D e L/E.     8177610_2. USAR PARAFUSO DO CAMINHÃO OFICINA 
+"
+165516140;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"M_FR_P_MEC_2_6,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 1° eixo traseiro, LD e LE  e 2° eixo LD e LE estão próximo ao limite preventivo conforme POP.AGR.MANT.0041    16_8113604, 180_6012109; 8130939_8 NECESSÁRIO CALÇAR O EQUIPAMENTO.  APROVIONAMENTO, ENCAMINHAR MATERIAL PARA OFICINA FIXA REBITAR E DISPONIBILIZAR PARA PROGRAMAÇÃO EM PREVENTIVA PROGRAMADA.
+"
+165516144;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção, está rasgada 8191518_2; 8191527_2; 8174974_2  frente 205
+"
+165516147;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_MT_P_MEC_1_1,00 - Inspeção realizada no sistema de motor. Trocar carcaça do filtro de ar completa, está com falha na vedação do encaixe da tampa  ,     8188461_1.    frente 205
+"
+165516150;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"M_SS_P_MEC_2_2,00 - Inspeção realizada no sistema de escape, trocar manta do escape pequena, está com desgaste 8175813_1  frente 205 Material disponível na sala de Aprovisionamento RETIRADO JOW
+"
+165516158;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98390;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no sistema de direção, trocar cilindro de direção, está com vazamento 8160039_18191518_2; 8191527_2; 8174974_2  frente 205
+"
+165516161;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98370;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine, Trocar borracha do degrau da escada de acesso a cabine  LD, está rachado  8149861_1(P5  ITEM DE OS ENCERRADA );  8153620_1 
+"
+165516163;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98293;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"M_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL frente 205
+"
+165516167;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98366;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/07/2025 06:00;07/07/2025 06:01;;0;"A_SS_P_ELE_1_2,00 - Inspeção realizada no sistema de cabine. Trocar chave comutadora da partida,esta com uma paliativa.                                (Partida direta no botão.)          8142336_1         ENTREGAR PARA RAFAEL ELETRECISTA.   frente 205
+"
+165519085;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:01;;0;"A_TR_P_MEC_1_1,00 - Inspeção realizada no eixo cardam, trocar cruzeta do cardan principal que liga ao 1° diferencial, está com folga 8188843_1
+"
+165519101;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada na estrutura, trocar proteção superior do cambio, está quebrada 8186707_1(P5); 8190335_1;  Material disponível na sala de Aprovisionamento 
+"
+165519120;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98414;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:01;;0;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine, Trocar borracha do degrau da escada de acesso a cabine  LD, está rachado  8149861_1;  8153620_1 
+"
+165519124;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD  , estão com fadigas  8118288_6; ; 8155449_4; 8155450_4; 8155513_4  frente 208
+"
+165519127;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção, está rasgada 8191518_2; 8191527_2; 8174974_2 
+"
+165519131;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no chassi, trocar suporte de fixação elástica LD do implemento ao chassi posicionado atras do puruficador de ar, suporte está trincado e sem o elemento de fixação 8183349_1; 8187143_1; 8184689_1; 8155330_1; 8187153_1;8187144_1; 8155329_1; 
+"
+165519134;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:00;;0;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no sistema de direção, trocar cilindro de direção, está com vazamento 8160039_1 
+"
+165519140;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:01;;0;"M_SS_P_MEC_1_1,00 - Inspeção realizada no sistema de direção, trocar terminal 90° LD do 2° eixo, está com folga 8178943_1 
+"
+165519166;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 10:00;;0;"A_MT_P_MEC_2,00_1,00 - Inspeção realizada no sistema de admissão. Trocar carcaça completa do filtro de ar.          8144013_1                                         SOLICITADO PELO TECNICO EDSON (CARRARA)     
+"
+165519204;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:01;;0;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine, Trocar borracha do degrau da escada de acesso a cabine  LD, está rachado  8149861_1;  8153620_1  frente 206 Material disponível sala de aprovisionamento 
+"
+165519205;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no chassi, trocar suporte de fixação elástica LD do implemento ao chassi posicionado atras do puruficador de ar, suporte está trincado  8183349_1; 8187143_1; 8184689_1; 8155330_1; 8187153_1;8187144_1; 8155329_1;   frente 206
+"
+165519207;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E.     8177610_1. USAR PARAFUSO DO CAMINHÃO OFICINA   frente 206
+"
+165519211;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/07/2025 06:00;12/07/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no chassi, trocar suporte de fixação elástica LD do implemento ao chassi posicionado atras do puruficador de ar, suporte está trincado  8183349_1; 8187143_1; 8184689_1; 8155330_1; 8187153_1;8187144_1; 8155329_1;   frente 206
+"
+165521184;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98368;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;17/07/2025 06:00;17/07/2025 06:01;;0;"A_OT_P_ELE_1_2,00 - Inspeção realizada na cabine, trocar alavanca de acionamento de velocidade da coluna de direção, está com defeito 8123181_1  ENTREGAR PARA RAFAEL DOMINGUES, SOLICITAÇÃO ELETRICISTA GANCINHO  Material disponível na sala de Aprovisionamento  entregue NEVITON 
+"
+165521657;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;17/07/2025 06:00;17/07/2025 06:01;;0;"M_FR_P_MEC_2_3,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 2° eixo traseiro, LD   está próximo ao limite preventivo conforme POP.AGR.MANT.0041    4_8113604, 100_6012109; 8130939_2 NECESSÁRIO CALÇAR O EQUIPAMENTO.  APROVIONAMENTO, ENCAMINHAR MATERIAL PARA OFICINA FIXA REBITAR E DISPONIBILIZAR PARA PROGRAMAÇÃO EM PREVENTIVA PROGRAMADA. frente 202   
+"
+165522331;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/07/2025 06:00;18/07/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar parafusos dos jumelos do 2° eixo dianteiro LE   , estão com parafusos irregulares  ; 8155449_4; 8155450_4; 8155513_2  frente 205
+"
+165522336;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;18/07/2025 06:00;18/07/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E e L/D.     8177610_3. USAR PARAFUSO DO CAMINHÃO OFICINA   frente 205
+"
+165522777;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98390;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;19/07/2025 06:00;19/07/2025 06:01;;0;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine, Trocar borracha do degrau da escada de acesso a cabine  LD, está rachado  8149861_1;  8153620_1  frente 205
+"
+165522780;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;19/07/2025 06:00;19/07/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no chassi, trocar suporte de fixação elástica LD do implemento ao chassi posicionado atras do puruficador de ar, suporte está trincado  8183349_1; 8187143_1; 8184689_1; 8155330_1; 8187153_1;8187144_1; 8155329_1;   frente 205
+"
+165522781;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;19/07/2025 06:00;19/07/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar parafusos dos jumelos do 2° eixo dianteiro LD  , estão com parafusos irregulares   ; 8155449_4; 8155450_4  frente 205
+"
+165522785;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;19/07/2025 06:00;19/07/2025 06:01;;0;"A_OT_P_MEC_1,00_0,10 - Inspeção realizada no sistema de ar pneumático, trocar valvula silenciador do filtro do sistema pneumático, está quebrado. 8184341_1 frente 205 
+"
+165522787;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98366;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;19/07/2025 06:00;19/07/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção LE, está rasgada 8191518_1; 8191527_1; 8174974_1
+"
+165522789;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98366;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;19/07/2025 06:00;19/07/2025 06:01;;0;"A_OT_P_MEC_1,00_0,10 - Inspeção realizada no sistema de ar pneumático, trocar valvula silenciador do filtro do sistema pneumático, está quebrado. 8184341_1 frente 205
+"
+165522792;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98398;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;19/07/2025 06:00;19/07/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E.     8177610_1; 8194662_1; 8194661_1.  
+"
+165522798;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;19/07/2025 06:00;19/07/2025 06:01;;213,56;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD e suporte LD , estão com fadigas 8155513_4; 8118288_6; 8174985_1(P5 MATERIAL DE  OS ENCERRADA; 8155449_4; 8155450_4  frente 207
+"
+165522858;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;19/07/2025 06:00;19/07/2025 06:01;;0;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine, Trocar borracha do degrau da escada de acesso a cabine  LD, está rachado  8149861_1;  8153620_1  
+"
+165522862;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;19/07/2025 06:00;19/07/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E.     8177610_1. USAR PARAFUSO DO CAMINHÃO OFICINA   
+"
+165522863;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;19/07/2025 06:00;19/07/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no chassi, trocar suporte de fixação elástica LD do implemento ao chassi posicionado atras do puruficador de ar, suporte está trincado  8183349_1; 8187143_1; 8184689_1; 8155330_1; 8187153_1;8187144_1; 8155329_1;   
+"
+165523905;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/07/2025 06:00;22/07/2025 06:01;;0;"A_SS_P_1,00_1,00 - Inspeção realizada no sistema do kit incêndio. Trocar o manômetro do kit spuma.Está quebrado. 6060801_1. 6012077_10               NECESSARIO LEVAR REBITADEIRA 
+"
+165523909;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98422;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/07/2025 06:00;22/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada no sistema de escape, trocar manta do escape , está com desgaste 8175813_1  Material disponivel na sala de Aprovisionamento 		
+"
+165523911;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/07/2025 06:00;22/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada no sistema de escape, trocar manta do escape , está com desgaste 8175813_1  Material disponivele na sala de Aprovisionamento  RETIRADO  JOW 
+"
+165523924;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98382;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/07/2025 06:00;22/07/2025 06:01;;0;"A_FR_P_MEC_2_6,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 1° e 2° eixo traseiro, LD e LE  está próximo ao limite preventivo conforme POP.AGR.MANT.0041    16_8113604, 180_6012109; 8130939_8 NECESSÁRIO CALÇAR O EQUIPAMENTO.  APROVISIONAMENTO, ENCAMINHAR MATERIAL PARA OFICINA FIXA REBITAR E DISPONIBILIZAR PARA PROGRAMAÇÃO EM PREVENTIVA PROGRAMADA. 
+"
+165523927;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98422;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/07/2025 06:00;22/07/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando8184734_3;8184703_4;  Material disponível na sala de aprovisionamento 
+"
+165523928;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/07/2025 06:00;22/07/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando8184734_4;8184703_4;  
+"
+165525828;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine, Trocar borracha do degrau da escada de acesso a cabine  LD, está rachado  8149861_1;  8153620_1  frente 207
+"
+165525839;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada na estrutura, trocar estribo LD completo, está quebrado 8140729_1; 8140728_1; 8191216_1; 8149861_1; 8153620_1; 8143945_1; 8143941
+"
+165525845;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98406;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"M_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4  
+"
+165525854;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98406;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"A_OT_P_MEC -1,00_2 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4    
+"
+165525855;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98406;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"M_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL frente 209
+"
+165525862;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98396;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine, Trocar borracha do degrau da escada de acesso a cabine  LD, está rachado  8149861_1;  8153620_1  
+"
+165525870;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"M_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4  
+"
+165525874;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando8184734_4;8184703_4;  
+"
+165525883;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"A_OT_P_MEC_1,00_1,00 - Inspeção realizada no sistema de suspensão. Instalar haste niveladora do 1° eixo dianteiro L/D, esta faltando.      8185854_1      F-209
+"
+165525886;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"M_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL frente 209
+"
+165525893;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98382;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"M_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL frente 209  Material disponível na sala de Aprovisionamento 
+"
+165525911;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"A_SS_P_MEC_1_1,00 - Inspeção realizada na cabine, trocar borracha da escada de acesso a cabine LE, está rasgada 8125695_1; 8156736_1  
+"
+165525912;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/07/2025 06:00;25/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada na estrutura, colocar parafusos de fixação do suporte de fixação elástica LD atras do filtro de ar do motor, está sem 8184734_3; 8184703_3
+"
+165526116;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98422;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;28/07/2025 06:00;28/07/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção LD , está rasgada 8191518_1; 8191527_1; 8174974_1 Material disponível sala de aprovisionamento RETIRADO KELLER
+"
+165526690;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;28/07/2025 06:00;28/07/2025 06:01;;0;"M_FR_P_MEC_2_6,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 1° E 2° eixo traseiro, LD e LE   estão próximo ao limite preventivo conforme POP.AGR.MANT.0041    16_8113604, 200_6012109; 8130939_8 NECESSÁRIO CALÇAR O EQUIPAMENTO.  APROVIONAMENTO, ENCAMINHAR MATERIAL PARA OFICINA FIXA REBITAR E DISPONIBILIZAR PARA PROGRAMAÇÃO EM PREVENTIVA PROGRAMADA. 
+"
+165526847;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;28/07/2025 06:00;28/07/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar parafusos do  jumelos do 2° eixo dianteiro LD  , estão com parafusos irregular ; 8155449_4; 8155450_4  frente 208 
+"
+165526848;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;28/07/2025 06:00;28/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada na proteção partes quentes, colocar telas protetoras do capô central do motor, está faltando 8192132_1; 8192131_1; 6012077_20  NECESSÁRIO LEVAR ARREBITADEIRA
+"
+165526851;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;28/07/2025 06:00;28/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada na proteção partes quentes, colocar telas protetoras do capô central do motor, está faltando 8192132_1; 8192131_1; 6012077_20  NECESSÁRIO LEVAR ARREBITADEIRA
+
+"
+165526855;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;28/07/2025 06:00;28/07/2025 06:01;;0;"B_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL frente 206
+"
+165526856;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;28/07/2025 06:00;28/07/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção, está rasgada 8191518_2; 8191527_2; 8174974_2 
+"
+165527463;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/07/2025 06:00;29/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada na estrutura, trocar carenagem partes quentes L/E do motor e capô central do motor, estão quebrados 8186723_1; 8186725_1(P5)
+"
+165527466;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/07/2025 06:00;29/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada nas carenagem partes quentes, colocar telas proteção no capô do motor, posicionado atras da cabine 8192131_1; 8192132_1; 8192130; 6012077_30  NECESSÁRIO LEVAR REBITADEIRA
+"
+165527471;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/07/2025 06:01;29/07/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando 8184734_3; 8184703_3;   
+"
+165527475;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/07/2025 06:00;29/07/2025 06:01;;0;"A_SS_P_MEC_1_1,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando 8184734_1; 8184703_1
+"
+165527480;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98368;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/07/2025 06:00;29/07/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando 8184734_3; 8184703_3;    Material disponível na sala de Aprovisionamento ENTREGUE NEVITON 
+
+"
+165527864;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:31;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando 8184734_3; 8184703_3;   
+"
+165527867;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98390;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando 8184734_3; 8184703_3;   
+"
+165527869;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando 8184734_3; 8184703_3;   
+"
+165527870;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98370;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando 8184734_3; 8184703_3;   
+"
+165527872;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98366;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando 8184734_3; 8184703_3;   
+
+"
+165527875;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98366;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_SS_P_MEC_1_1,00 - Inspeção realizada na cabine, trocar borracha da escada de acesso a cabine LE, está rasgada 8125695_1; 8156736_1   
+"
+165527877;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98366;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada no sistema de escape, trocar manta do escape , está com desgaste 8175813_1  Material disponivel na sala de Aprovisionamento 		
+"
+165527884;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98370;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada nas caregens partes quentes, colocar tela de proteção LE, está faltando 8192130_1; 6012077_20 NECESSÁRIO LEVAR FURADEIRA, BROCA E REBITADEIRA
+"
+165527886;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada nas caregens partes quentes, colocar tela de proteção LE, está faltando 8192130_1; 6012077_20 NECESSÁRIO LEVAR FURADEIRA, BROCA E REBITADEIRA
+
+"
+165527887;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98366;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada nas caregens partes quentes, colocar tela de proteção LE, está faltando 8192130_1; 6012077_20 NECESSÁRIO LEVAR FURADEIRA, BROCA E REBITADEIRA
+"
+165527888;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98366;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_SS_P_MEC_0,15_1 - Inspeção realizada na parte eletrica, colocar trava da chave geral, está faltando o bloqueio .8174203_1 frente 205
+"
+165527889;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98370;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD e suporte LD , estão com fadigas 8155513_4; 8118288_6; 8174985_1; 8155449_4; 8155450_4  frente 205
+"
+165527892;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98370;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"M_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD E LE  , estão com fadigas  8118288_6;  frente 205
+"
+165527894;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_SS_P_MEC_2,00_2 - Inspeção realizada no eixo dianteiro, trocar bucha dos braços da barra de estabilização do eixo dianteiro, está com fadiga 8122223_4; 8127170_2  
+"
+165527895;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98398;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 00:00;30/07/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada nas caregens partes quentes, colocar tela de proteção LE, está faltando 8192130_1; 6012077_20 NECESSÁRIO LEVAR FURADEIRA, BROCA E REBITADEIRA
+"
+165527896;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98390;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:03;30/07/2025 06:05;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada nas caregens partes quentes, colocar tela de proteção LE, está faltando 8192130_1; 6012077_20 NECESSÁRIO LEVAR FURADEIRA, BROCA E REBITADEIRA
+"
+165527898;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98398;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"M_SS_P_MEC_1_1,00 - Inspeção realizada no eixo dianteiro, trocar terminal 90° LD da barra curta superior LD, está com folga 8178943_1 
+"
+165527902;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"A_MT_P_MEC_0,10_1 - Inspeção realizada no motor diesel - tampa do enchimento de oleo no motor, esta com a tampa danificada e vazando 8159588_01  
+"
+165527903;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:01;;0;"B_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL frente 205  
+"
+165527907;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/07/2025 06:00;30/07/2025 06:30;;0;"A_MT_P_MEC_0,10_1,00 - Inspeção realizada no sistema do tanque arla. Trocar o tanque ARLA , está com vazamento. 8121710_1  
+"
+165528007;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;31/07/2025 06:00;31/07/2025 06:01;;0;"M_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal 90° do conjunto de terminal de direção  do 1° eixo dianteiro LD, está com folga 8178943_1 Material disponível na sala de aprovisionamento 
+"
+165529575;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98293;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;02/08/2025 06:00;02/08/2025 06:01;;0;"A_MMT_P_MEC_1_1,00 - Inspeção realizada no motor diesel, trocar arruelas de vedação e tampa de abastecimento de óleo lubrificante, estão com vazamento 8150997_7; 8159588_1
+"
+165531930;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98414;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/08/2025 06:00;07/08/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no chassi, trocar suporte de fixação elástica LD do implemento ao chassi posicionado atras do puruficador de ar, suporte está trincado  8183349_1; 8187143_1; 8184689_1; 8155330_1; 8187153_1;8187144_1; 8155329_1;    
+"
+165531939;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98378;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/08/2025 06:00;07/08/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando 8184734_1(P5); 8184703_1Material disponível na sala de aprovisionamento 
+"
+165531941;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98378;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/08/2025 06:00;07/08/2025 06:01;;0;"B_VZ_P_MEC_2,00_2 - Inspeção realizado na cabine, trocar o cilindro de basculamento da cabine, está com vazamento. 8183885_1 CONSULTADO TECNICO DA MERCEDEZ É REALIZADO A TROCA COM A CABINE ABAIXADA NO APOIO, ACESSO POR BAIXO E PELA GRADE FRONTAL frente 208
+"
+165531954;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98390;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/08/2025 06:00;07/08/2025 06:01;;0;"A_FR_P_MEC_2_2,00 - Inspeção realizada no sistema de freio, trocar catraca de regulagem do freio 2° eixo lado direito, ja foi regulado de modo automático e manual e não está funcinando 8184825_1
+"
+165531983;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/08/2025 06:00;07/08/2025 06:01;;0;"M_FR_P_MEC_2_3,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 2° eixo traseiro, LD   está próximo ao limite preventivo conforme POP.AGR.MANT.0041    4_8113604, 100_6012109; 3015606_2 NECESSÁRIO CALÇAR O EQUIPAMENTO.  APROVIONAMENTO, ENCAMINHAR MATERIAL PARA OFICINA FIXA REBITAR E DISPONIBILIZAR PARA PROGRAMAÇÃO EM PREVENTIVA PROGRAMADA.   
+"
+165531984;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/08/2025 06:00;07/08/2025 06:01;;0;"A_FR_P_MEC_2_3,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 1° eixo traseiro, LD   está com a lona solta    4_8113604, 100_6012109; 3015606_2 NECESSÁRIO CALÇAR O EQUIPAMENTO.  APROVIONAMENTO, ENCAMINHAR MATERIAL PARA OFICINA FIXA REBITAR E DISPONIBILIZAR PARA PROGRAMAÇÃO EM PREVENTIVA PROGRAMADA.   
+"
+165532218;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/08/2025 06:00;07/08/2025 06:01;;0;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine, Trocar borracha do degrau da escada de acesso a cabine  LD, está rachado  8149861_1;  8153620_1   
+"
+165532544;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98376;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/08/2025 06:00;07/08/2025 06:01;;0;"B_SS_P_MEC_1,00_1,00 - Inspeção realizada no sistema eletrico. Trocar tampa de bateria, esta quebrada.             8123166_1   
+"
+165532546;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98422;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/08/2025 06:00;07/08/2025 06:01;;0;"A_OT_P_MEC_1,00_0,10 - Inspeção realizada no sistema de ar pneumático, trocar valvula silenciador do filtro do sistema pneumático, está quebrado. 8184341_1   Material disponível na sala de aprovisionamento retirado keller
+"
+165532611;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98422;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;07/08/2025 06:00;07/08/2025 06:01;;0;"M_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal 90° do conjunto de terminal de direção  do 1° eixo dianteiro LE, está com folga 8177862_1  
+"
+165533496;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;11/08/2025 06:52;11/08/2025 08:00;;0;"A_OT_P_MEC_1,00_0,10 - Inspeção realizada no sistema de ar pneumático, trocar valvula silenciador do filtro do sistema pneumático, está quebrado. 8184341_1 frente 206
+"
+165534424;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/08/2025 06:00;12/08/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4   
+"
+165534425;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/08/2025 06:00;12/08/2025 06:01;;0;"M_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD  , estão com fadigas  8118288_6;  frente 207
+"
+165534430;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/08/2025 06:00;12/08/2025 06:01;;0;"A_OT_P_MEC_1_1,00 - Inspeção realizada no sistema da direção. Trocar o terminal reto  L/D do 1° eixo dianteiro esta com folga 8174983_1
+"
+165534431;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;12/08/2025 06:00;12/08/2025 06:01;;0;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no sistema de direção, trocar cilindro de direção, está com vazamento 8160039_1  
+"
+165535268;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;14/08/2025 06:00;14/08/2025 06:01;;0;"A_TR_S_MEC_2_2,00 - Inspeção realizada na transmissão, Relato do operador de dificuldade de engate no 2° e 6° velocidade da transmissão, necessário recolher para manutenção da transmissão  frente 205
+"
+165535278;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;14/08/2025 06:00;14/08/2506 06:00;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada no sistema de suspeção, colocar porca do grampo de molas L/D do 2° eixo direcional, está faltando 8129020_4
+"
+165535287;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98390;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;14/08/2025 06:00;14/08/2025 06:01;;0;"A_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD e LE  , estão com fadigas  8118288_6;  frente 205 
+"
+165535288;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;14/08/2025 06:00;14/08/2025 06:01;;0;"A_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD e LE  , estão com fadigas  8118288_6; 8155449_4; 8155450_4 frente 205 
+"
+165535291;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;14/08/2025 06:00;14/08/2025 06:01;;0;"A_SS_P_MEC_2,00_2,00 - Inspeção realizada no sistema da cabine.Trocar o tirante do retrovisor L/D .Está quebrado.    8158854_1
+"
+165536159;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;15/08/2025 06:00;15/08/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E e L/D.     8177610_2. USAR PARAFUSO DO CAMINHÃO OFICINA    
+"
+165536755;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98390;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/08/2025 06:00;16/08/2025 06:01;;0;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no sistema hidráulico, trocar visor do reservatório hidráulico, está com vazamento 8186757_1
+"
+165536761;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98292;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/08/2025 06:00;16/08/2025 06:01;;0;"A_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD e LE  , estão com fadigas  8118288_6;  frente 205 
+"
+165536763;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/08/2025 06:00;16/08/2025 06:01;;0;"A_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD e LE  , estão com fadigas  8118288_6;  frente 205 
+"
+165536771;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98293;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/08/2025 06:00;16/08/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar parafusos do  jumelos e chapas do 1° eixo dianteiro LD  , estão com porcas soldadas ; 8155449_4; 8155450_4; 8155513_2  frente 205
+"
+165536774;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98370;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/08/2025 06:00;16/08/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E.     8177610_1; 8194662_1; 8194661_1. 
+"
+165536776;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/08/2025 06:00;16/08/2025 06:01;;0;"A_OT_P_MEC_1_1,00 - Inspeção realizada na estrurutra, trocar suporte do purificador de ar, está quebrado, já foi soldado e precisa trocar 8194682_1
+"
+165538738;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;20/08/2025 06:00;20/08/2025 06:30;;0;"A_SS_P_MEC_2_4,00 - Inspeção realizada no 1° eixo dianteiro, trocar mola LE, está quebrada 8186758_1; 8128986_2; 8118288_3; 8129020_4  frente 207  NECESSÁRIO CALÇAR O EIXO 
+"
+165538758;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;20/08/2025 06:00;20/08/2025 06:01;;0;"A_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD e LE  , estão com fadigas  8118288_6;  frente 206  Material disponível na sala de aprovisionamento 
+"
+165538759;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;20/08/2025 06:00;20/08/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E.     8177610_1; 8194662_1; 8194661_1.  
+"
+165539207;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;20/08/2025 06:00;20/08/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada na cabine, trocar suporte de estribo L/D, está quebrado 8143945_1; 8143941_1; 8149861_1;  8153620_1    
+"
+165539224;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;21/08/2025 06:00;21/08/2025 06:01;;0;"A_SS_P_1,00_1,00 - Inspeção realizada no sistema de cabine. Trocar borracha de portaL/E, esta danificada e entrando terra na cabine.  8189821_1    8141665_1   
+"
+165539228;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98376;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;21/08/2025 06:00;21/08/2025 06:01;;0;"A_SS_P_1,00_1,00 - Inspeção realizada no sistema do kit incêndio. Trocar o manômetro do kit spuma.Está quebrado. 6060801_1. 6012077_10               NECESSARIO LEVAR REBITADEIRA  
+"
+165539830;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/08/2025 06:00;22/08/2025 06:01;;0;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no sistema de direção, trocar cilindro de direção, está com vazamento 8160039_1   
+"
+165539836;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98398;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/08/2025 06:00;22/08/2025 06:01;;0;"A_MT_P_MEC_2_2,00  - Inspeção realizada no motor diesel, trocar mangueiras de admissão entrada/saída inter cooler, estão com atrito e estão rasgadas 8186591_1; 8186535_1; 8186591_1
+"
+165539839;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/08/2025 06:00;22/08/2025 06:01;;0;"A_MT_P_MEC_2_2,00  - Inspeção realizada no motor diesel, trocar mangueiras de admissão entrada do coletor, está com atrito a proteção lateral 8186535_1
+"
+165539843;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/08/2025 06:00;22/08/2025 06:01;;0;"A_SS_P_MEC_2_4,00 - Inspeção realizada no 1° eixo dianteiro, trocar 3° mola LE, está quebrada 8186758_1; 8128986_2(P5); 8118288_3(P5); 8129020_4  frente 207  NECESSÁRIO CALÇAR O EIXO 
+"
+165539847;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98388;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/08/2025 06:00;22/08/2025 06:01;;0;"A_MT_P_MEC_2_2,00  - Inspeção realizada no motor diesel, trocar mangueiras de admissão entrada/saída inter cooler, estão com atrito e estão rasgadas 8186591_1; 8186535_1; 8186591_1
+
+"
+165539848;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98388;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/08/2025 06:00;22/08/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E.     8177610_1; 8194662_1; 8194661_1.  
+"
+165539849;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98388;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/08/2025 06:00;22/08/2025 06:01;;0;"A_VZ_P_MEC_0,10_1 - Inspeção realizada no motor diesel -Trocar tampa de abastecimento de óleo  tampa do enchimento de oleo no motor, esta com a tampa danificada e vazando 8159588_01   
+"
+165539853;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98422;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/08/2025 06:00;22/08/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E e L/D.     8177610_(P5) 8194662_2(P5); 8194661_2.  (P5)Materail disponivel  na sala de aprovisionamento - MATERIAL LIBERADO NA SALA DO APROVISIONAMENTO.RETIRADO KELLER 
+"
+165539858;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98422;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;22/08/2025 06:00;22/08/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4(P5); 8118288_6(P5);  8155449_4; 8155450_4 (P5) - Material disponível na Sala de Aprovisionamento
+"
+165542644;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/08/2025 06:00;27/08/2025 06:01;;0;"A_SS_P_1,00_1,00 - Inspeção realizada no sistema de cabine. Trocar borracha de portaL/E, esta danificada e entrando terra na cabine.  8189821_1    8141665_1   
+"
+165542645;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/08/2025 06:00;27/08/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada na cabine, trocar conjunto completo do retrovisor L/D, está quebrado 8176953_1 
+"
+165542648;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/08/2025 06:00;27/08/2025 06:01;;0;"A_MT_P_MEC_2_2,00  - Inspeção realizada no motor diesel, trocar mangueiras de admissão entrada/saída inter cooler, estão com atrito e estão rasgadas 8186591_1; 8186535_1; 8186591_1
+"
+165542649;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/08/2025 06:00;27/08/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção, está rasgada 8191518_2; 8191527_2; 8174974_2   
+"
+165542650;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/08/2025 06:00;27/08/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E.     8177610_1; 8194662_1; 8194661_1.  
+"
+165542652;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/08/2025 06:00;27/08/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E.     8177610_2; 8194662_2; 8194661_2.  
+"
+165542653;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/08/2025 06:00;27/08/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada na cabine, trocar conjunto completo do retrovisor L/D, está quebrado 8176953_1 
+
+"
+165542654;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;27/08/2025 06:00;27/08/2025 06:01;;0;"A_OT_P_MEC_1,00_0,10 - Inspeção realizada no sistema de ar pneumático, trocar valvula silenciador do filtro do sistema pneumático, está quebrado. 8184341_1
+"
+165544753;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98378;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/08/2025 06:01;30/08/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no chassi, trocar suporte de fixação elástica LD do implemento ao chassi posicionado atras do puruficador de ar, suporte está trincado  8183349_1; 8187143_1; 8184689_1; 8155330_1; 8187153_1;8187144_1; 8155329_1;     
+"
+165547428;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;05/09/2025 06:00;05/09/2025 06:30;;0;"A_SS_P_MEC_2_4,00 - Inspeção realizada no 1° eixo dianteiro, trocar 3° mola LD, está quebrada 8186758_1(P5); 8128986_2(P5); 8118288_3; 8129020_4  (P5)  NECESSÁRIO CALÇAR O EIXOMaterial disponível na sala de aprovisionamento 
+"
+165547430;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;05/09/2025 06:00;05/09/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do suporte LD do tanque diesel, está faltando 8184734_1; 8184703_1;      Material disponível na sala de aprovisionamento 
+"
+165547431;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;05/09/2025 06:00;05/09/2025 06:01;;0;"A_VZ_P_MEC_2_8,00 - Inspeção realizada no eixo traseiro, corrigir vazamento na flange do prolongador do 1° eixo traseiro LD, está com vazamento devido a quebra de parafuso,Parafusos trocados .as permanece o vazamento do lubrificante . 6015111_1; 6031339_1; 8174937_10; 8099354_1; 6031339_1; 8194221_1(P5)(aguardando cadastro)  NECESSÁRIO TORQUIMETRO. APLICAR TORQUE DE 300 N.M. E ESPERAR O TEMPO DE CURA DO ADESEIVO, NECESSARIO RECOLHER O EQUIPAMENTO E CALCAR O EIXO  E DESMONTAR O CUBO REDUTOR NO CAMPO. 
+"
+165547433;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;05/09/2025 06:00;05/09/2025 06:01;;0;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no sistema de direção, trocar cilindro de direção, está com vazamento 8160039_1   
+"
+165547438;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;05/09/2025 06:00;05/09/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/D.     8177610_1; 8194662_1; 8194661_1.  
+
+"
+165548079;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98293;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;05/09/2025 06:00;05/09/2025 06:01;;0;"A_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminais  90° da barra ( SUPERIOR CURTA LADO ESQUERDO ) de direção  do 1° eixo dianteiro LE, está com folga 8177862_1; 8178943 
+"
+165549287;Andamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98422;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_VZ_P_MEC_2_3,00 - Inspeção realizada no eixo traseiro, corrigir vazamento na flange do prolongador do 2° eixo traseiro LD, está com vazamento devido a quebra de parafuso,Parafusos trocados .as permanece o vazamento do lubrificante . 6015111_1(P5); 6031339_1; 8174937_10(P5); 8099354_1(P5); 6031339_1; 8194221_1( P5 )  NECESSÁRIO TORQUIMETRO. APLICAR TORQUE DE 300 N.M. E ESPERAR O TEMPO DE CURA DO ADESEIVO, NECESSARIO RECOLHER O EQUIPAMENTO E CALCAR O EIXO  E DESMONTAR O CUBO REDUTOR NO CAMPO. .   RETIRADO  KELLER
+"
+165549289;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98388;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_SS_P_ELE_1_1,00 - Inspeção realizada na parte elétrica, trocar lanterna traseira LD, está quebrada 8025615_1  DIRECIOANAR PARA OS RAFAEL DOMINGUES   
+"
+165549291;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98396;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/D.     8177610_1; 8194662_1; 8194661_1.  
+"
+165549293;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD e LE  , estão com fadigas  8118288_6; 
+"
+165549294;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98396;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4    
+"
+165549295;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98396;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada na estrutura, trocar estribo LD completo, está quebrado 8140729_1; 8140728_1; 8191216_1; 8149861_1; 8153620_1; 8143945_1; 8143941
+"
+165549299;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção, está rasgada 8191518_2; 8191527_2; 8174974_2   
+"
+165549303;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4    
+"
+165549305;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98414;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E e L/D.     8177610_4; 8194662_4; 8194661_4.  
+"
+165549325;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção LE , está rasgada 8191518_1; 8191527_1; 8174974_1     
+"
+165549329;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98392;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no sistema de direção, trocar barra de direção do 2° eixo, está torta 8153949_1
+"
+165549333;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98392;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4    
+"
+165549336;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98392;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/09/2025 06:00;08/09/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no chassi, trocar suporte de fixação elástica LD do implemento ao chassi posicionado atras do puruficador de ar, suporte está trincado  8183349_1; 8187143_1; 8184689_1; 8155330_1; 8187153_1;8187144_1; 8155329_1;    
+"
+165551438;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;11/09/2025 06:00;11/09/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/D.     8177610_1; 8194662_1; 8194661_1.  
+"
+165551486;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98390;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;11/09/2025 06:00;11/09/2025 06:02;;0;"A_OT_P_MEC_1_1,00 - Inspeção realizada no eixo traseiro, trocar varão de acionamento da váuvula pneumática de alimentação das bolsas de ar LE, está quebrada 8184081_1 
+"
+165551528;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98390;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;11/09/2025 06:00;11/09/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção, está rasgada 8191518_2; 8191527_2; 8174974_2   
+"
+165551529;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98376;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;11/09/2025 06:00;11/09/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4    
+"
+165551532;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98398;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;11/09/2025 06:00;11/09/2025 06:01;;0;"A_MT_P_MEC_0,10_1,00 - Inspeção realizada no sistema do tanque arla. Trocar a tampa do tanque, está com vazamento. 8174965_1 
+"
+165551562;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98398;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;11/09/2025 06:00;11/09/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4    
+"
+165551575;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98398;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;11/09/2025 06:00;11/09/2025 06:01;;0;"A_SS_P_MEC_1_1,00 - Inspeção realizada na cabine, trocar borracha da escada de acesso a cabine LE, está rasgada 8125695_1; 8156736_1   
+"
+165551606;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98293;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;11/09/2025 06:00;11/09/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada no eixo dianteiro, trocar parafusos do  jumelos do 2° eixo dianteiro LD  , estão com parafusos irregular ; 8155449_4; 8155450_4 
+"
+165553473;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;15/09/2025 06:00;15/09/2025 06:01;;0;"A_OT_P_MEC -1,00_2 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4      
+"
+165553480;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;15/09/2025 06:00;15/09/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada no sistema de motor, trocar proteção térmica do tubo vertical do escape, está danificada na base e com acumulo de palha 8175813_1  
+"
+165553482;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;15/09/2025 06:00;15/09/2025 06:01;;0;"M_FR_P_MEC_2_3,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 2° eixo traseiro, LD   está próximo ao limite preventivo conforme POP.AGR.MANT.0041    4_8113604, 100_6012109; 3015606_2 NECESSÁRIO CALÇAR O EQUIPAMENTO.      
+"
+165553549;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98296;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;15/09/2025 06:09;16/09/2025 07:00;;0;"A_OT_P_MEC -1,00_2 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4 
+"
+165553552;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98366;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;15/09/2025 06:00;15/09/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4    
+"
+165553555;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;15/09/2025 06:00;15/09/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4   
+"
+165554042;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/09/2025 06:00;16/09/2025 06:01;;0;"A_SS_S_ELE_1_1,00 - Inspeção realizada no sistema eletrico, verificar alarme de freio estácionario, não está funcionando
+"
+165554043;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98297;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/09/2025 06:00;16/09/2025 06:01;;0;"A_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD e LE  , estão com fadigas  8118288_6;   
+"
+165554047;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/09/2025 06:00;16/09/2025 06:02;;0;"A_SS_P_1,00_1,00 - Inspeção realizada no sistema de cabine. Trocar borracha de porta L/E e L/D, esta danificada e entrando terra na cabine.  8189821_2   8141665_2   
+"
+165554049;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/09/2025 06:00;16/09/2025 06:01;;0;"A_SS_P_1,5_1,00  Inspeção realizada no sistema cabine. Trocar palheta limpador de para-brisa, está ruim   8112603_02 Material disponível na sala de aprovisionamento 
+"
+165554051;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/09/2025 06:00;16/09/2025 06:01;;0;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine, Trocar borracha do degrau da escada de acesso a cabine  LD, está rachado  8149861_1;  8153620_1   
+"
+165554057;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/09/2025 06:00;16/09/2025 06:01;;0;"A_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD e LE  , estão com fadigas  8118288_6;  frente 205  
+"
+165554058;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/09/2025 06:00;16/09/2025 06:00;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4    
+"
+165554060;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/09/2025 06:00;16/09/2025 06:01;;0;"M_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal 90° do conjunto de terminal de direção  do 2° eixo dianteiro LE, está com folga 8177862_1   
+"
+165554062;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/09/2025 06:00;16/09/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção, está rasgada 8191518_2; 8191527_2; 8174974_2   
+"
+165554063;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98394;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;16/09/2025 06:00;16/09/2025 06:01;;0;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no sistema de direção, trocar cilindro de direção, está com vazamento 8160039_1   
+"
+165557819;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98414;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;23/09/2025 06:00;23/09/2025 06:01;;0;"""A_SS_P_MEC_2_2,00 - Inspeção realizada no sistema de escape, trocar manta do escape , está com desgaste 8175813_1  
+"
+165557820;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98414;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;23/09/2025 06:00;23/09/2025 06:01;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção LE , está rasgada 8191518_1; 8191527_1; 8174974_1     
+"
+165557821;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98414;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;23/09/2025 06:00;23/09/2025 06:20;;0;"A_OT_S_BOR_1_1,00 - Inspeção realizada no 2° eixo dianteiro,verificar pneu L/D (951171), está com danos ao talão  PLANEJAMENTO, DIRECIONAR A GESTÃO DE BORRACHARIA   FRENTE 209
+"
+165557823;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98414;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;23/09/2025 06:00;23/09/2025 06:01;;0;"A_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD e LE  , estão com fadigas  8118288_6;  
+"
+165558379;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"A_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal L/D  90° da barra ( SUPERIOR CURTA LADO ESQUERDO ) de direção  do 1° eixo dianteiro LE, está com folga  8178943_1  
+"
+165558381;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"M_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal 90° do conjunto de terminal de direção  do 2° eixo dianteiro LE, está com folga 8177862_1   
+"
+165558383;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada na cabine, trocar borracha da escada de acesso a cabine LE e LD , está rasgada 8125695_1; 8156736_1;8149861_1;  8153620_1      
+"
+165558385;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98392;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"M_FR_P_MEC_2_3,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 2° eixo traseiro, LD e LE   está com a lona solta    8_8113604, 100_6012109; 3015606_4 NECESSÁRIO CALÇAR O EQUIPAMENTO.  
+"
+165558386;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"A_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD e LE  , estão com fadigas  8118288_6;  
+"
+165558387;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98406;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E.     8177610_2; 8194662_2; 8194661_2.  
+"
+165558388;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98406;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"A_SS_S_MEC_1_1,00 - Inspeção realizada no 1° eixo dianteiro, reapertar grampos de mola LE, estão soltos APLICAR TORQUE 760 N.M.   
+"
+165558389;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98406;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"M_SS_P_MEC - 2,00_2 - Inspeção realizada no eixo direcional, trocar rolamento do articulador do 1° eixo direcional LE, está com folga no rolamento. 8177681_1   
+"
+165558763;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"""A_SS_P_MEC_2_2,00 - Inspeção realizada no sistema de escape, trocar manta do escape , está com desgaste 8175813_1  
+"
+165558764;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"A_OT_P_MEC_2_4,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 1° eixo dianteiro LD e LE  , estão com fadigas  8118288_6;  
+"
+165558765;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4    
+"
+165558768;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"A_OT_P_MEC_1,00_1,00 - Inspeção realizada no sistema de suspensão. Instalar haste niveladora L/E, esta faltando.      8185854_1     
+"
+165558770;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"A_SS_P_MEC_1,_1,00 - Inspeção realizada no sistema da cabine.Trocar o tirante do retrovisor L/E e L/D .Está quebrado.    8158854_2.     
+"
+165558837;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98404;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;25/09/2025 06:00;25/09/2025 06:01;;0;"A_SS_P_MEC_2_4,00 - Inspeção realizada no 1° eixo dianteiro, trocar 3° mola LD, está quebrada 8186758_1; 8128986_2(P5); 8118288_3(P5); 8129020_4   NECESSÁRIO CALÇAR O EIXO 
+"
+165560939;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_OT_P_MEC_1_1,00 - Inspeção realizada no 2° eixo dianteiro, trocar barra de direção, está torta 8153949_1
+"
+165560942;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_OT_P_MEC_1_1,00 - Inspeção realizada no 1° eixo dianteiro, trocar terminal completo LD, está torto 8153948_1
+"
+165560946;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98418;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada no sistema de escape, trocar manta do escape , está com desgaste 8175813_1  
+"
+165560948;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98374;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_VZ_P_MEC_2_2,00 - Inspeção realizada no eixo traseiro, sacar parafuso da  flange do prolongador do 2° eixo traseiro LE, está com quebra de parafuso ,; 8174937_1 NECESSÁRIO TORQUIMETRO. APLICAR TORQUE DE 300 N.M.    
+"
+165560951;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98374;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:01;29/09/2025 06:01;;0;"A_SS_P_MEC_1_1,00 - Inspeção realizada no sistema de kitmultspuma. colocar bico do kit, esta faltando 8190649_1    
+"
+165560952;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98374;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E e L/D.     8177610_4; 8194662_4; 8194661_4.  
+"
+165560955;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98374;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"M_FR_P_MEC_2_3,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 2° eixo traseiro, LE   está com a lona solta    4_8113604, 100_6012109; 3015606_2 NECESSÁRIO CALÇAR O EQUIPAMENTO.  
+"
+165560959;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98370;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"M_FR_P_MEC_2_3,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 2° eixo traseiro, LE   está com a lona solta    4_8113604, 100_6012109; 3015606_2 NECESSÁRIO CALÇAR O EQUIPAMENTO.  
+"
+165560963;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98398;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_OT_S_BOR_2_2,00 - Inspeção realizada no 1° eixo direcional, trocar pneu L/D  n° 948496, está com danos ao talão   frente 205  PLANEJAMENTO, DIRECIONAR A GESTÃO DE BORRACHARIA PARA PROGRAMAR ANTES DA FALHA E DIMINUIR O MTTR 
+"
+165560967;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98293;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4    
+"
+165560970;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98293;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_SS_P_1,5_1,00  Inspeção realizada no sistema cabine. Trocar palheta limpador de para-brisa, está ruim   8112603_02 (P5)  
+"
+165560972;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:11;;0;"A_SS_P_MEC_1_1,00 - Inspeção realizada no sistema de direção, trocar terminal 90° LD do 1° eixo, está com folga 8178943_1  
+"
+165560974;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98294;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_OT_P_MEC_2_2,00 - Inspeção realizada na suspenção, colocar batedor da mola LD do 2° eixo dianteiro, está faltando 8131725_1; 8123520_1(P5); 8128986_2(P5); 8129020_4(P5)
+"
+165560975;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98390;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_OT_P_MEC_1_2,00 - Inspeção realizada na cabine, Trocar borracha do degrau da escada de acesso a cabine  LD, está rachado  8149861_1;  8153620_1    
+"
+165560976;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98390;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_OT_P_MEC -1,00_2 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4      
+"
+165560977;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98370;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_OT_P_MEC -1,00_2 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4  
+"
+165560979;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98370;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;29/09/2025 06:00;29/09/2025 06:01;;0;"A_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminail  90° da barra ( SUPERIOR CURTA LADO ESQUERDO ) de direção  do 1° eixo dianteiro LE, está com folga 8177862_1; 8178943 
+"
+165561335;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/09/2025 06:00;30/09/2025 06:01;;0;"A_TR_S_MEC_2_2,00 - Inspeção realizada na transmissão, Relato do operador de dificuldade de engate no 2° e 6° velocidade da transmissão, necessário recolher para manutenção da transmissão 
+"
+165561336;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/09/2025 06:00;30/09/2025 06:01;;0;"A_MT_P_MEC_2_2,00 - Inspeção realizada no sistema de arrefecimento, trocar reservatório de arrefecimento, está trincado e vazando 8098707_1 
+"
+165561337;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98410;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;30/09/2025 06:00;30/09/2025 06:01;;0;"A_SS_S_MEC_1,00_1,00 - Inspeção realizada no sistema do kit multspuma. Corrigir multspuma, não esta funcionando, necessario desmontar e se caso precisar de alguma peça comunicar o gestor ou o inspetor para fazer o pedido da mesma. 
+"
+165561368;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98382;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;01/10/2025 06:00;01/10/2025 06:01;;0;"A_OT_S_BOR_2_2,00 - Inspeção realizada no 1° eixo direcional, trocar pneu n° 948869 L/D, está com danos ao talão   frente 207  PLANEJAMENTO, DIRECIONAR A GESTÃO DE BORRACHARIA PARA PROGRAMAR ANTES DA FALHA E DIMINUIR O MTTR 
+"
+165561369;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98382;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;01/10/2025 06:00;01/10/2025 06:01;;0;"A_SS_P_ELE_1_1,00 - Inspeção realizada no sistema eletrico, trocar chave de partida, está com defeito e está com paliativo com interruptor no painel 8142336_1 NÃO PROGRAMAR, DISPONIBILIZAR A PEÇA PARA O TÉCNICO RAFAEL DOMINGUES (PODRE) 
+"
+165561370;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98382;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;01/10/2025 06:00;01/10/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/D.     8177610_1; 8194662_1; 8194661_1.  
+"
+165561990;Andamento;5;Preventiva Condicional;36;SENSITIVA CAMPO;11001;OFICINA FIXA;Interna;Equipamento;98416;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;02/10/2025 10:41;02/10/2025 14:20;;236,98;"BAR-FIXA-CM  -  QRU_EMBREAGEM PATINANDO; ESCADA DE ACESSO LADO DIREITO QUEBRADA; AR-CONDICIONADO DO TETO DELIGA TODA HORA (CÓD. 307).
+"
+165564452;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98388;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_SS_P_1,00_1,00 - Inspeção realizada no sistema de cabine. Vidro do retrovisor L/E trincado. Troca vidro do retrovisor L/E.   8118269_1  
+"
+165564453;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98388;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"""A_SS_P_MEC_2_2,00 - Inspeção realizada no sistema de escape, trocar manta do escape , está com desgaste 8175813_1  
+"
+165564454;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98388;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_SS_P_ELE_1_1,00 - Inspeção realizada na parte elétrica, trocar lanterna traseira LD, está quebrada 8025615_1  DIRECIOANAR PARA OS RAFAEL DOMINGUES   
+"
+165564455;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98376;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:00;;0;"A_VZ_P_MEC_0,10_1,00 - Inspeção realizada no sistema do tanque arla. Trocar a tampa do tanque, está com vazamento. 8174965_1  
+"
+165564457;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98376;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando 8184734_3; 8184703_3;    
+"
+165564459;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_VZ_P_MEC_0,10_1,00 - Inspeção realizada no sistema do tanque arla. Trocar a tampa do tanque, está com vazamento. 8174965_1 
+"
+165564460;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_SS_P_MEC_2_3,00 - Inspeção realizada sistema de freio. Trocar lonas de freio do 2° eixo traseiro, LD   está com a lona solta    4_8113604, 100_6012109; 3015606_2 NECESSÁRIO CALÇAR O EQUIPAMENTO.
+"
+165564461;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_OT_P_MEC_1_0,30 - Inspeção realizada no sistema da suspenção. Colocar  a algema na mola do 2° eixo direcional L/E.     8177610_1; 8194662_1; 8194661_1.  
+"
+165564463;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98386;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_SS_P_MEC_1,00_1 - Inspeção realizada no eixo dianteiro, trocar terminal L/D  90° da barra ( SUPERIOR CURTA LADO ESQUERDO ) de direção  do 1° eixo dianteiro LE, está com folga  8178943_1  
+"
+165564465;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_SS_P_1,00_1,00 - Inspeção realizada no sistema de cabine. Vidro do retrovisor L/D trincado. Troca vidro do retrovisor L/D.   8118269_1  
+"
+165564467;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98295;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no chassi, colocar parafusos de fixação do implemento ao chassi LD acima do tanque diesel, está faltando 8184734_3; 8184703_3;    
+"
+165564471;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_OT_P_MEC_1_2,00 - Inspeção realizada no sistema de suspenção, trocar bolsa de ar do 1° eixo traseiro LE, está rasgada 8174213_1 
+"
+165564472;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_OT_S_BOR_2_2,00 - Inspeção realizada no 1° eixo direcional, trocar pneu n° 948488 L/D, está com danos ao talão   PLANEJAMENTO, DIRECIONAR A GESTÃO DE BORRACHARIA PARA PROGRAMAR ANTES DA FALHA E DIMINUIR O MTTR 
+"
+165564585;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_SS_P_MEC_2_2,00 - Inspeção realizada na cabine, trocar conjunto do retrovisor LD, está quebrado 8176953_1 
+"
+165564588;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98400;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;06/10/2025 06:00;06/10/2025 06:01;;0;"A_SS_P_MEC_1,_1,00 - Inspeção realizada no sistema da cabine.Trocar o tirante do retrovisor L/E e L/D .Está quebrado.    8158854_2.     
+"
+165565199;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98378;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/10/2025 06:00;08/10/2025 06:01;;0;"A_MT_P_MEC_0,10_1,00 - Inspeção realizada no sistema do tanque arla. Trocar a tampa do tanque, está com vazamento. 8174965_1    
+"
+165565202;Programada;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98378;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/10/2025 06:00;08/10/2025 06:01;;0;"A_SS_P_MEC_1_1,00 - Inspeção realizada no sistema de kitmultspuma. colocar bico do kit, esta faltando 8190649_1    
+Material disponível na sala de aprovisionamento 
+"
+165565204;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98378;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/10/2025 06:00;08/10/2025 06:01;;0;"A_SS_S_MEC_1_1,00 - Inspeção realizada no 1° eixo dianteiro, reapertar grampos de mola LE, estão soltos APLICAR TORQUE 760 N.M.   frente 205   
+"
+165565211;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/10/2025 06:00;08/10/2025 06:01;;0;"A_SS_P_MEC_1_2,00 - Inspeção realizada no sistema multspuma, trocar conjunto de mangueira do carretel, está danificada.6060828_1 
+"
+165565212;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/10/2025 06:00;08/10/2025 06:01;;0;"A_SS_S_SOL_1_1,00 - Inspeção realizada no chassi, soldar suporte do tanque LE, está com início de trinca. 
+"
+165565214;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98380;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/10/2025 06:00;08/10/2025 06:01;;0;"A_MT_P_MEC_0,10_1,00 - Inspeção realizada no sistema do tanque arla. Trocar a tampa do tanque, está com vazamento. 8174965_1    
+"
+165565229;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98392;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;08/10/2025 06:00;08/10/2025 06:01;;0;"A_SS_P_1,00_1,00 - Inspeção realizada no sistema de cabine. Vidro do retrovisor L/E trincado. Troca vidro do retrovisor L/E.   8118269_1  
+Material disponível na sala de aprovisionamento 
+"
+165565431;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98396;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;09/10/2025 06:00;09/10/2025 06:01;;0;"A_SS_S_ELE_1_1,00 - Inspeção realizada no sistema eletrico, corrigir alarme do freio estacionário, não está funcionando 
+"
+165565432;Liberado para Programação;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98396;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;09/10/2025 06:00;09/10/2025 06:01;;0;"A_TR_S_MEC_2_2,00 - Inspeção realizada na transmissão, Relato do operador de dificuldade de engate no 2° e 6° velocidade da transmissão, necessário recolher para manutenção da transmissão   
+"
+165565433;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98396;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;09/10/2025 06:00;09/10/2025 06:01;;0;"A_SS_P_MEC_2_4,00 - Inspeção realizada no 2° eixo dianteiro, trocar 2° mola LD, está quebrada 8186810_1; 8128986_2; 8118288_3; 8129020_4    NECESSÁRIO CALÇAR O EIXO 
+"
+165565434;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98396;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;09/10/2025 06:00;09/10/2025 06:01;;0;"A_MT_P_MEC_2_2,00  - Inspeção realizada no motor diesel, trocar mangueiras de admissão entrada/saída inter cooler, estão com atrito e estão rasgadas 8186591_1; 8186535_1; 8186591_1
+"
+165565436;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;09/10/2025 06:00;09/10/2025 06:01;;0;"A_MT_P_MEC_0,10_1,00 - Inspeção realizada no sistema do tanque arla. Trocar a tampa do tanque, está com vazamento. 8174965_1    
+"
+165565438;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;09/10/2025 06:00;09/10/2025 06:02;;0;"A_OT_P_MEC_2_1,00 - Inspeção realizada no eixo dianteiro, trocar coifa do cilindro de direção, está rasgada 8191518_2; 8191527_2; 8174974_2   
+"
+165565439;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;09/10/2025 06:00;09/10/2025 06:01;;0;"A_OT_P_MEC -1,00_2 - Inspeção realizada no sistema de ar condicionado, trocar coxim do condenssador do ar posicionado atras da cabine LE e LD, está rachado 8177617_4      
+"
+165565440;Aprovisionamento;5;Preventiva Condicional;27;INSPEÇÃO SENSITIVA;11002;OFICINA CAMPO;Campo;Equipamento;98372;MB Axor3131 8x4 Trans.CCT;1418;48;Caminhão Transbordo CCT;;;09/10/2025 06:00;09/10/2025 06:01;;0;"A_OT_P_MEC_2_6,00 - Inspeção realizada no eixo dianteiro, trocar buchas dos jumelos do 2° eixo dianteiro LE e LD , estão com fadigas 8155513_4; 8118288_6;  8155449_4; 8155450_4    
+"

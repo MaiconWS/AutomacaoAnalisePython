@@ -114,7 +114,7 @@ def bloco_nao_apontadas():
     gui.click(x=664, y=483)
     time.sleep(1)
 
-    gui.press('tab')
+    gui.press('tab') 
     gui.click(x=196, y=250)
     time.sleep(1)
     gui.write('46999998')

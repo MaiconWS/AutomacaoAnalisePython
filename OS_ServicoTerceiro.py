@@ -77,7 +77,7 @@ def resolucao_1(tela):
         
         gui.click(x=316, y=344)
         time.sleep(0.5)
-        gui.write('6302') #COHYBRA
+        gui.write('318') #COHYBRA
         time.sleep(0.5)
         
         #Descrição
@@ -105,13 +105,26 @@ def resolucao_1(tela):
         time.sleep(0.5)
         gui.write('21')
         time.sleep(0.5)
-        gui.click(x=360, y=570)
+        gui.click(x=367, y=569)
         time.sleep(0.5)
-        gui.write('1700')
+        gui.keyDown('f4')
+        time.sleep(0.5)
+        gui.keyUp('f4')
+        time.sleep(0.5)
+        gui.click(x=506, y=351)
+        gui.press('ENTER')
         time.sleep(0.5)
         gui.click(x=491, y=570)
         time.sleep(0.5)
-        gui.write('1780')
+        
+        gui.keyDown('f4')
+        time.sleep(0.5)
+        gui.keyUp('f4')
+        time.sleep(0.5)
+        gui.click(x=506, y=351)
+        gui.press('ENTER')
+        time.sleep(0.5)
+        
         gui.click(x=628, y=569)
         time.sleep(0.5)
         gui.write('1')
